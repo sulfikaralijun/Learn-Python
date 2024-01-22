@@ -29,4 +29,5 @@ elif jenis_operasi == 4 :
   operasi = 'Pembagian'
 else:
   print("Operasi yang anda pilih tidak tersedia")
-print(f"Hasil : {hasil}")
+
+print(f"Hasil {operasi}: {hasil}")
