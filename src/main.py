@@ -1,2 +1,2 @@
 name = 'sulfikar' # menggunakan single quote
-name = "sulfikar"
+name = "sulfikar" # menggunakan double quote
