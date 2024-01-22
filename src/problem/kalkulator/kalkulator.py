@@ -23,6 +23,7 @@ elif jenis_operasi == 2 :
   operasi = 'Pengurangan'
 elif jenis_operasi == 3 :
   hasil = angka_pertama * angka_kedua
+  operasi = 'Perkalian'
 elif jenis_operasi == 4 :
   hasil = angka_pertama / angka_kedua
 else:
