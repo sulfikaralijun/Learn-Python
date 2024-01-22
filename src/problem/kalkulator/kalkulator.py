@@ -1,6 +1,6 @@
 print("======= KALKULATOR ========")
 
-# mengambil
+# mengambil input
 angka_pertama = int(input("Masukkan angka pertama: "))
 angka_kedua = int(input("Masukkan angka kedua: "))
 jenis_operasi = int(input("""Pilih operasi yang anda inginkan:
