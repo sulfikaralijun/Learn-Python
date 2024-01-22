@@ -1,6 +1,6 @@
 print("======== Selamat datang di kalkulator Sulfikar Alijun ========")
 
-angka_pertama = input("Masukkan angka pertama: ")
+angka_pertama = int(input("Masukkan angka pertama: "))
 angka_kedua = input("Masukkan angka kedua: ")
 jenis_operasi = int(input("""Pilih operasi yang anda inginkan:
 1. Penjumlah
