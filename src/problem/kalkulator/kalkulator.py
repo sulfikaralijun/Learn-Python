@@ -16,7 +16,7 @@ def input_jenis_operasi():
 
   Masukkan nomor operasi yang anda inginkan (1/2/3/4): """))
 
-
+input_jenis_operasi()
 
 if jenis_operasi == 1 :
   hasil = angka_pertama + angka_kedua
