@@ -17,5 +17,6 @@ elif jenis_operasi == 3 :
   hasil = angka_pertama * angka_kedua
 elif jenis_operasi == 4 :
   hasil = angka_pertama / angka_kedua
-  
+else:
+  print("Operasi yang anda pilih tidak tersedia")
 print(f"Hasil : {hasil}")
