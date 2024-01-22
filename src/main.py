@@ -16,3 +16,6 @@ print(alamat)
 
 # string adalah sebuah array
 print(name[1]) # output: u
+
+# menghitung jumlah karakter
+print(len(name)) # output: 8
