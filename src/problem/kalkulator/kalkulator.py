@@ -30,4 +30,4 @@ elif jenis_operasi == 4 :
 else:
   print("Operasi yang anda pilih tidak tersedia")
 
-print(f"Hasil {operasi} dari {angka_pertama} dan : {hasil}")
+print(f"Hasil {operasi} dari {angka_pertama} dan {angka_kedua}: {hasil}")
