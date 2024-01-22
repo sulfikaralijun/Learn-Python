@@ -18,4 +18,4 @@ elif jenis_operasi == 3 :
 elif jenis_operasi == 4 :
   hasil = angka_pertama / angka_kedua
   
-print("Hasil: " + hasil)
+print(f"Hasil : {hasil}")
