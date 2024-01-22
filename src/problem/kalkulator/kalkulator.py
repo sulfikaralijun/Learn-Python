@@ -15,3 +15,5 @@ elif jenis_operasi == 2 :
   hasil = angka_pertama - angka_kedua
 elif jenis_operasi == 3 :
   hasil = angka_pertama * angka_kedua
+else :
+  hasil = angka_pertama / angka_kedua
