@@ -20,6 +20,7 @@ if jenis_operasi == 1 :
   operasi = 'Penjumlahan'
 elif jenis_operasi == 2 :
   hasil = angka_pertama - angka_kedua
+  operasi = 'Pengurangan'
 elif jenis_operasi == 3 :
   hasil = angka_pertama * angka_kedua
 elif jenis_operasi == 4 :
