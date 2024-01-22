@@ -1,5 +1,5 @@
 # Kalkulator
-Proyek ini adalah implementasi sederhana dari kalkulator menggunakan Python. Kalkulator dapat melakukan operasi penambahan, pengurangan, perkalian, dan pembagian.
+Proyek ini adalah implementasi sederhana dari kalkulator menggunakan Python. Kalkulator ini dapat melakukan operasi penambahan, pengurangan, perkalian, dan pembagian.
 
 #### Cara Penggunaan:
 - Jalankan program dengan menjalankan script Python `kalkulator.py`.
