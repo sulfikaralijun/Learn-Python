@@ -7,17 +7,13 @@ print("======= KALKULATOR ========")
 # angka_kedua = int(input("Masukkan angka kedua: "))
 
 # mengambil input jenis operasi
-def input_jenis_operasi():
-  jenis_operasi = int(input("""Pilih operasi yang anda inginkan:
-  1. Penjumlah
-  2. Pengurangan
-  3. Perkalian
-  4. Pembagian
+jenis_operasi = int(input("""Pilih operasi yang anda inginkan:
+1. Penjumlah
+2. Pengurangan
+3. Perkalian
+4. Pembagian
 
-  Masukkan nomor operasi yang anda inginkan (1/2/3/4): """))
-
-input_jenis_operasi()
-print(input_jenis_operasi())
+Masukkan nomor operasi yang anda inginkan (1/2/3/4): """))
 
 if jenis_operasi == 1 :
   hasil = angka_pertama + angka_kedua
