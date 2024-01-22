@@ -10,3 +10,6 @@ Jakarta
 Indonesia
 """ # menggunakan multiline stirng
 print(alamat)
+
+# string adalah sebuah array
+print(name[1])
