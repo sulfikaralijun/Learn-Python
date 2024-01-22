@@ -17,6 +17,7 @@ Masukkan nomor operasi yang anda inginkan (1/2/3/4): """))
   
 if jenis_operasi == 1 :
   hasil = angka_pertama + angka_kedua
+  operasi = 'Penjumlahan'
 elif jenis_operasi == 2 :
   hasil = angka_pertama - angka_kedua
 elif jenis_operasi == 3 :
