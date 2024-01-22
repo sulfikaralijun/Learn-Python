@@ -9,7 +9,10 @@ Jl. Pahlawan No. 1
 Jakarta
 Indonesia
 """ # menggunakan multiline stirng
-print(alamat)
+print(alamat) 
+# output: Jl. Pahlawan No. 1
+# Jakarta
+# Indonesia
 
 # string adalah sebuah array
-print(name[1])
+print(name[1]) # output: u
