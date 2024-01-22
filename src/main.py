@@ -1,2 +1,3 @@
 name = 'sulfikar'
-print(name)
+for i in name:
+  print(i)
