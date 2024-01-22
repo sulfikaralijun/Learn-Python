@@ -6,7 +6,7 @@ angka_pertama = int(input("Masukkan angka pertama: "))
 # mengambil input angka kedua
 angka_kedua = int(input("Masukkan angka kedua: "))
 
-# mengambil input jenis
+# mengambil input jenis operasi
 jenis_operasi = int(input("""Pilih operasi yang anda inginkan:
 1. Penjumlah
 2. Pengurangan
