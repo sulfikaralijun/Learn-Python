@@ -64,4 +64,5 @@ Identifiers dalam Python adalah nama yang digunakan untuk mengidentifikasi varia
 - `namaVariabel`
 - `hitung_jumlah`
 - `_nilai`
+- `KelasMobil`
 
