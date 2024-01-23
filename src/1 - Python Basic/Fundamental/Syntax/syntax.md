@@ -65,7 +65,6 @@ Identifiers dalam Python adalah nama yang digunakan untuk mengidentifikasi varia
 - `hitung_jumlah`
 - `_nilai`
 - `KelasMobil`
-
 ```python
 # Contoh Identifiers yang Benar
 namaVariabel = 20
@@ -79,7 +78,6 @@ KelasMobil = "Sedan"
 - `nilai@` (mengandung karakter khusus)
 - `Variabel Baru` (mengandung spasi)
 - `class` (menggunakan kata kunci yang sudah ada)
-
 ```python
 # Contoh Identifiers yang Salah
 123variabel = 15  # Diawali dengan angka
@@ -91,7 +89,6 @@ class = "Python"  # Menggunakan kata kunci yang sudah ada
 ### Pemberian Nama yang Dapat Dimengerti:
 - Nama identifier sebaiknya memiliki makna yang jelas dan menggambarkan fungsi atau tujuan dari variabel, fungsi, atau kelas tersebut.
 - Gunakan kombinasi kata yang singkat namun bermakna, misalnya `hitung_gaji` untuk variabel yang menyimpan informasi mengenai penggajian.
-
 ```python
 # Pemberian Nama yang Dapat Dimengerti
 hitung_gaji = 5000
@@ -101,3 +98,9 @@ nama_pengguna = "JohnDoe"
 ### Camel Case vs. Snake Case:
 - Python biasanya menggunakan **snake_case** untuk memberikan nama pada variabel dan fungsi. Contohnya: `nama_depan`, `hitung_total`.
 - **CamelCase** juga digunakan terutama dalam penamaan kelas. Contohnya: `KelasMobil`, `HitungGaji`.
+```python
+# Camel Case untuk Nama Kelas
+class KendaraanBermotor:
+    def __init__(self, jenis):
+        self.jenis = jenis
+```
