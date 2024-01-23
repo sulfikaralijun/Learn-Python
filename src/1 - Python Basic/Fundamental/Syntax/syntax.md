@@ -51,3 +51,5 @@ Python. Misalnya, `def` digunakan untuk mendefinisikan fungsi, `while` digunakan
 untuk membuat loop, dan `print()` digunakan untuk mencetak teks.
 
 ## Identifiers
+
+Identifiers dalam Python adalah nama yang digunakan untuk mengidentifikasi variabel, fungsi, kelas, atau objek lain dalam program.
