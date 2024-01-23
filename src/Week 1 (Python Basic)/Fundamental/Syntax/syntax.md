@@ -43,3 +43,9 @@ if a == True and b == False and \
 ```
 Kode tersebut akan mencetak "Continuation of statements" jika `a` dan `c` bernilai
 `True`.
+
+## Keywords
+
+Keywords adalah kata-kata yang memiliki arti khusus dalam bahasa pemrograman
+Python. Misalnya, `def` digunakan untuk mendefinisikan fungsi, `while` digunakan
+untuk membuat loop, dan `print()` digunakan untuk mencetak teks.
