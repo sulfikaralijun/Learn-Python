@@ -81,5 +81,9 @@ KelasMobil = "Sedan"
 - `class` (menggunakan kata kunci yang sudah ada)
 
 ```python
-
+# Contoh Identifiers yang Salah
+123variabel = 15  # Diawali dengan angka
+nilai@ = 7        # Mengandung karakter khusus
+Variabel Baru = 3 # Mengandung spasi
+class = "Python"  # Menggunakan kata kunci yang sudah ada
 ```
