@@ -8,7 +8,6 @@ bisa menggunakan semicolon**.
 
 Whitespace digunakan untuk menentukan blok kode di Python. Misalnya, dalam kode
 berikut:
-
 ```python
 def main():
   i = 1
@@ -25,3 +24,10 @@ dengan spasi 4 karakter dan berakhir dengan spasi 4 karakter.
 
 Comments digunakan untuk menjelaskan kode. Comments dimulai dengan tanda pagar
 (#). Misalnya, kode berikut:
+```python
+# Ini adalah komentar satu baris
+
+# Ini adalah komentar multi baris
+# yang terbentang
+# lebih dari satu baris
+```
