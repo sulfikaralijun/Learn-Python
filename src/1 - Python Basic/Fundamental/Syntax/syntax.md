@@ -103,4 +103,9 @@ nama_pengguna = "JohnDoe"
 class KendaraanBermotor:
     def __init__(self, jenis):
         self.jenis = jenis
+
+# Snake Case untuk Variabel dan Fungsi
+nama_pengguna = "JohnDoe"
+def hitung_total_gaji(gaji_pokok, tunjangan):
+    return gaji_pokok + tunjangan
 ```
