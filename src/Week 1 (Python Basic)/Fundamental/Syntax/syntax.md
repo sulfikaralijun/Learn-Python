@@ -41,3 +41,5 @@ if a == True and b == False and \
     c == True:
   print("Continuation of statements")
 ```
+Kode tersebut akan mencetak "Continuation of statements" jika `a` dan `c` bernilai
+`True`.
