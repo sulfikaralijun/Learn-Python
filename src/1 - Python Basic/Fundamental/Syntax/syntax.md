@@ -80,3 +80,6 @@ KelasMobil = "Sedan"
 - `Variabel Baru` (mengandung spasi)
 - `class` (menggunakan kata kunci yang sudah ada)
 
+```python
+
+```
