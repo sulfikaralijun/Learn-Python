@@ -79,4 +79,5 @@ KelasMobil = "Sedan"
 - `123variabel` (diawali dengan angka)
 - `nilai@` (mengandung karakter khusus)
 - `Variabel Baru` (mengandung spasi)
+- `class` (menggunakan kata kunci yang sudah ada)
 
