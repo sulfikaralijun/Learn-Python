@@ -100,3 +100,4 @@ nama_pengguna = "JohnDoe"
 
 ### Camel Case vs. Snake Case:
 - Python biasanya menggunakan snake_case untuk memberikan nama pada variabel dan fungsi. Contohnya: `nama_depan`, `hitung_total`.
+- CamelCase juga digunakan terutama dalam penamaan kelas. Contohnya: `KelasMobil`, `HitungGaji`.
