@@ -31,3 +31,8 @@ Comments digunakan untuk menjelaskan kode. Comments dimulai dengan tanda pagar
 # yang terbentang
 # lebih dari satu baris
 ```
+
+## Continuation of statements
+
+Statements (pernyataan) di Python dapat terbentang lebih dari satu baris. Hal
+ini dilakukan dengan menggunakan karakter backslash (`\`). Misalnya, kode berikut:
