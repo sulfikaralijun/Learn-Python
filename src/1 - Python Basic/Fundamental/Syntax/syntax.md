@@ -89,3 +89,4 @@ class = "Python"  # Menggunakan kata kunci yang sudah ada
 ```
 
 ### Pemberian Nama yang Dapat Dimengerti:
+- Nama identifier sebaiknya memiliki makna yang jelas dan menggambarkan fungsi atau tujuan dari variabel, fungsi, atau kelas tersebut.
