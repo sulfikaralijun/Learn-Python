@@ -67,6 +67,12 @@ Identifiers dalam Python adalah nama yang digunakan untuk mengidentifikasi varia
 - `KelasMobil`
 
 untuk lebih jelasnya dapat dilihat pada code berikut:
-
+```python
+# Contoh Identifiers yang Benar
+namaVariabel = 20
+hitung_jumlah = 8
+_nilai = "Halo"
+KelasMobil = "Sedan"
+```
 
 
