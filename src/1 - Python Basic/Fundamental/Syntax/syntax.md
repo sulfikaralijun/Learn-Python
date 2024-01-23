@@ -87,3 +87,5 @@ nilai@ = 7        # Mengandung karakter khusus
 Variabel Baru = 3 # Mengandung spasi
 class = "Python"  # Menggunakan kata kunci yang sudah ada
 ```
+
+### Pemberian Nama yang Dapat Dimengerti:
