@@ -66,3 +66,7 @@ Identifiers dalam Python adalah nama yang digunakan untuk mengidentifikasi varia
 - `_nilai`
 - `KelasMobil`
 
+untuk lebih jelasnya dapat dilihat pada code berikut:
+
+
+
