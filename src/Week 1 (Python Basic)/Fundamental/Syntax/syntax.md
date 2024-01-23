@@ -17,7 +17,7 @@ def main():
 
 main()
 ```
-Kode tersebut akan mencetak angka dari 1 hingga 9. Blok kode while dimulai
+Kode tersebut akan mencetak angka dari 1 hingga 9. Blok kode `while` dimulai
 dengan spasi 4 karakter dan berakhir dengan spasi 4 karakter.
 
 ## Comments
