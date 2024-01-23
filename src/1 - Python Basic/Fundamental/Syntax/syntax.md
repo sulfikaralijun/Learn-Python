@@ -52,4 +52,4 @@ untuk membuat loop, dan `print()` digunakan untuk mencetak teks.
 
 ## Identifiers
 
-Identifiers dalam Python adalah nama yang digunakan untuk mengidentifikasi variabel, fungsi, kelas, atau objek lain dalam program.
+Identifiers dalam Python adalah nama yang digunakan untuk mengidentifikasi variabel, fungsi, kelas, atau objek lain dalam program. Identifiers sangat penting dalam bahasa pemrograman karena digunakan untuk memberikan nama pada elemen-elemen program sehingga dapat diidentifikasi dan digunakan dengan mudah.
