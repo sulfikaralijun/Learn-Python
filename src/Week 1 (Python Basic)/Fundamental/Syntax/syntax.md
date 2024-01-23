@@ -36,3 +36,8 @@ Comments digunakan untuk menjelaskan kode. Comments dimulai dengan tanda pagar
 
 Statements (pernyataan) di Python dapat terbentang lebih dari satu baris. Hal
 ini dilakukan dengan menggunakan karakter backslash (`\`). Misalnya, kode berikut:
+```python
+if a == True and b == False and \
+    c == True:
+  print("Continuation of statements")
+```
