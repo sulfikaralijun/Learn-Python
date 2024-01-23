@@ -56,3 +56,4 @@ Identifiers dalam Python adalah nama yang digunakan untuk mengidentifikasi varia
 
 ### Pendefinisian Identifiers:
 - Identifiers dapat terdiri dari huruf (`a-z`, `A-Z`), angka (`0-9`), dan underscore (`_`).
+- Nama identifier tidak boleh diawali dengan angka.
