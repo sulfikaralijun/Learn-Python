@@ -77,5 +77,5 @@ KelasMobil = "Sedan"
 
 ### Contoh Identifiers yang Salah:
 - `123variabel` (diawali dengan angka)
-
+- `nilai@` (mengandung karakter khusus)
 
