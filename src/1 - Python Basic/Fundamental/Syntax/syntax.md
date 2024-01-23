@@ -58,4 +58,4 @@ Identifiers dalam Python adalah nama yang digunakan untuk mengidentifikasi varia
 - Identifiers dapat terdiri dari huruf (`a-z`, `A-Z`), angka (`0-9`), dan underscore (`_`).
 - Nama identifier tidak boleh diawali dengan angka.
 - Karakter khusus seperti `@`, `$`, dan `%` tidak diperbolehkan dalam identifier.
-- Identifiers bersifat case-sensitive, artinya huruf besar dan huruf kecil dianggap berbeda.
+- Identifiers bersifat **case-sensitive**, artinya huruf besar dan huruf kecil dianggap berbeda.
