@@ -61,4 +61,5 @@ Identifiers dalam Python adalah nama yang digunakan untuk mengidentifikasi varia
 - Identifiers bersifat **case-sensitive**, artinya huruf besar dan huruf kecil dianggap berbeda.
 
 ### Contoh Identifiers yang Benar:
+- namaVariabel
 
