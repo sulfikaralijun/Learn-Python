@@ -97,3 +97,6 @@ class = "Python"  # Menggunakan kata kunci yang sudah ada
 hitung_gaji = 5000
 nama_pengguna = "JohnDoe"
 ```
+
+### Camel Case vs. Snake Case:
+- Python biasanya menggunakan snake_case untuk memberikan nama pada variabel dan fungsi. Contohnya: `nama_depan`, `hitung_total`.
