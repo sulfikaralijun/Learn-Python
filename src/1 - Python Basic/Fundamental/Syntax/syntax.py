@@ -36,4 +36,4 @@ _nilai = "Halo"
 KelasMobil = "Sedan"
 
 # Contoh Identifiers yang Salah
-123variabel = 15  # Diawali dengan angka
+#123variabel = 15  # Diawali dengan angka (kode ini saya comment karena dapat menyebabkan error)
