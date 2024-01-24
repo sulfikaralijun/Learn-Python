@@ -8,3 +8,9 @@ def main():
 
 # memanggil fungsi main
 main()
+
+# Continuation statement
+a = True
+if a == True and b == False and \
+    c == True:
+  print("Continuation of statements")
