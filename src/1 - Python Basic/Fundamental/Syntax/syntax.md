@@ -136,4 +136,4 @@ def hitung_total_gaji(gaji_pokok, tunjangan):
 
 ## String literals
 
-Python menggunakan tanda kutip tunggal ('), ganda (") dan tiga kali lipat (''' atau """) untuk menunjukkan string literal.
+Python menggunakan tanda kutip tunggal (`'`), ganda (`"`) dan tiga kali lipat (`'''` atau `"""`) untuk menunjukkan string literal.
