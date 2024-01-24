@@ -34,3 +34,6 @@ namaVariabel = 20
 hitung_jumlah = 8
 _nilai = "Halo"
 KelasMobil = "Sedan"
+
+# Contoh Identifiers yang Salah
+123variabel = 15  # Diawali dengan angka
