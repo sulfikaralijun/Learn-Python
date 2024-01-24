@@ -50,6 +50,15 @@ Keywords adalah kata-kata yang memiliki arti khusus dalam bahasa pemrograman
 Python. Misalnya, `def` digunakan untuk mendefinisikan fungsi, `while` digunakan
 untuk membuat loop, dan `print()` digunakan untuk mencetak teks.
 Berikut ini adalah beberapa daftar kata kunci di Python:
+```python
+False      class      finally    is         return
+None       continue   for        lambda     try
+True       def        from       nonlocal   while
+and        del        global     not        with
+as         elif       if         or         yield
+assert     else       import     pass
+break      except     in         raise
+```
 
 ## Identifiers
 
