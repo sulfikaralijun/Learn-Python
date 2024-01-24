@@ -1,6 +1,8 @@
 # mengimpor module keyword
 import keyword
 
+print("Hello World!")
+
 # mendefinisikan fungsi main
 def main():
     i = 1
