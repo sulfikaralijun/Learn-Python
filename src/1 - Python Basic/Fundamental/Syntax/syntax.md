@@ -142,4 +142,8 @@ Pastikan menggunakan tanda kutip yang sama untuk memulai dan mengakhiri string l
 ```python
 string_single = 'Ini adalah sebuah string yang menggunakan single quote'
 string_double = "Ini adalah string lain yang menggunakan double quote"
+string_triple = '''
+Ini adalah string,
+ini menggunakan triple quote
+'''
 ```
