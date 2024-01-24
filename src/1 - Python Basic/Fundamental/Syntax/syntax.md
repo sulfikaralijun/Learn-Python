@@ -4,9 +4,11 @@ indentasi) untuk menentukan struktur kode. Hal ini berbeda dari banyak bahasa
 pemrograman lain yang menggunakan tanda baca seperti semicolon (;)***sebenarnya
 bisa menggunakan semicolon**.
 
-## Whitespace
+## Whitespace and Indentation
 
 Jika Anda pernah bekerja dalam bahasa pemrograman lain seperti `Java`, `C#`, atau `C`/`C++`, Anda pasti tahu bahwa bahasa-bahasa ini menggunakan titik koma (`;`) untuk memisahkan pernyataan.
+
+Namun, Python menggunakan spasi dan lekukan untuk membangun struktur kode.
 ```python
 def main():
   i = 1
