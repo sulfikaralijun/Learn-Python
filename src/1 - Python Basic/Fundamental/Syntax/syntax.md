@@ -155,4 +155,4 @@ ini menggunakan triple quote
 - `Comments` diawali dengan tanda pagar (`#`) dan berguna untuk memberikan penjelasan pada kode. Python mengabaikan comments saat mengeksekusi kode.
 - `Statement` dalam Python dapat melintasi beberapa baris dengan menggunakan karakter backslash (`\`).
 - `Keywords` adalah kata-kata khusus dengan arti tertentu dalam Python, contohnya `def`, `while`, `print()`. Modul keyword menyediakan daftar lengkap kata kunci Python.
-- `Identifiers` adalah nama yang digunakan untuk mengidentifikasi variabel, fungsi, kelas, atau objek dalam program Python.
+- `Identifiers` adalah nama yang digunakan untuk mengidentifikasi variabel, fungsi, kelas, atau objek dalam program Python. Mereka bersifat `case-sensitive`, dapat terdiri dari huruf, angka, dan underscore, tetapi tidak boleh diawali dengan angka atau mengandung karakter khusus.
