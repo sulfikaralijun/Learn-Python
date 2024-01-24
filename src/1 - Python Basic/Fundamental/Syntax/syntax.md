@@ -141,4 +141,5 @@ Python menggunakan tanda kutip tunggal (`'`), ganda (`"`) dan tiga kali lipat (`
 Pastikan menggunakan tanda kutip yang sama untuk memulai dan mengakhiri string literal, misalnya, jika dimulai dengan tanda kutip tunggal (`'`), gunakan tanda kutip tunggal (`'`) juga untuk mengakhiri.
 ```python
 string_single = 'Ini adalah sebuah string yang menggunakan single quote'
+string_double = "Ini adalah string lain yang menggunakan double quote"
 ```
