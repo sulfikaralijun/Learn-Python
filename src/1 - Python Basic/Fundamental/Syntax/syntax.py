@@ -36,4 +36,7 @@ _nilai = "Halo"
 KelasMobil = "Sedan"
 
 # Contoh Identifiers yang Salah
-#123variabel = 15  # Diawali dengan angka (kode ini saya comment karena dapat menyebabkan error)
+# 123variabel = 15  # Diawali dengan angka
+# nilai@ = 7        # Mengandung karakter khusus
+# Variabel Baru = 3 # Mengandung spasi
+# class = "Python"  # Menggunakan kata kunci yang sudah ada
