@@ -66,3 +66,4 @@ print(gaji_pokok)
 
 # String Literals
 string_single = 'Ini adalah sebuah string yang menggunakan single quote'
+string_double = "Ini adalah string lain yang menggunakan double quote"
