@@ -53,6 +53,7 @@ class KendaraanBermotor:
         self.jenis = jenis
         
 mobil = KendaraanBermotor('Mobil')
+print(mobil.jenis)
 
 # Snake Case untuk Variabel dan Fungsi
 nama_pengguna = "JohnDoe"
