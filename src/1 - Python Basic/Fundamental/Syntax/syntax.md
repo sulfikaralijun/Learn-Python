@@ -23,7 +23,8 @@ Makna dari kode tersebut tidak terlalu penting untuk Anda saat ini. Yang perlu d
 
 Di setiap baris, tidak ada penggunaan titik koma untuk mengakhiri pernyataan. Selain itu, kita menggunakan indentasi untuk memberi tahu komputer cara menyusun kodenya.
 
-Di setiap baris, tidak ada penggunaan titik koma untuk mengakhiri pernyataan
+Kelebihan penggunaan lekukan dan spasi dalam menulis kode Python adalah:
+- Tidak perlu khawatir melewatkan awal atau akhir bagian tertentu dari kode. Ini berbeda dengan bahasa pemrograman lain seperti `Java` atau `C#`.
 
 ## Comments
 
