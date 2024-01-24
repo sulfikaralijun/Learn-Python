@@ -154,4 +154,4 @@ ini menggunakan triple quote
 - Kelebihan penggunaan whitespace dan `indentasi` dalam Python termasuk konsistensi gaya penulisan, kemudahan membaca, dan menghindari kebutuhan titik koma di akhir setiap pernyataan.
 - `Comments` diawali dengan tanda pagar (`#`) dan berguna untuk memberikan penjelasan pada kode. Python mengabaikan comments saat mengeksekusi kode.
 - `Statement` dalam Python dapat melintasi beberapa baris dengan menggunakan karakter backslash (`\`).
-- `Keywords` adalah kata-kata khusus dengan arti tertentu dalam Python, contohnya `def`, `while`, print(). Modul keyword menyediakan daftar lengkap kata kunci Python.
+- `Keywords` adalah kata-kata khusus dengan arti tertentu dalam Python, contohnya `def`, `while`, `print()`. Modul keyword menyediakan daftar lengkap kata kunci Python.
