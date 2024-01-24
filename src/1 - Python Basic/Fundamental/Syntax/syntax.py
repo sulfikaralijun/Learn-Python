@@ -9,6 +9,12 @@ def main():
 # memanggil fungsi main
 main()
 
+# Ini adalah komentar satu baris
+
+# Ini adalah komentar multi baris
+# yang terbentang
+# lebih dari satu baris
+
 # Continuation statement
 a = True
 b = False
@@ -16,3 +22,4 @@ c = True
 if a == True and b == False and \
     c == True:
   print("Continuation of statements")
+
