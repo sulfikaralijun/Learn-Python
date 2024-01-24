@@ -59,3 +59,6 @@ print(mobil.jenis)
 nama_pengguna = "JohnDoe"
 def hitung_total_gaji(gaji_pokok, tunjangan):
     return gaji_pokok + tunjangan
+
+print(nama_pengguna)
+
