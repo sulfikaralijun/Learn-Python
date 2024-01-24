@@ -35,7 +35,7 @@ Comments digunakan untuk menjelaskan kode. Ketika Python interpreter mengeksekus
 ## Continuation of statements
 
 Statements (pernyataan) di Python dapat terbentang lebih dari satu baris. Hal
-ini dilakukan dengan menggunakan karakter backslash (`\`). Misalnya, kode berikut:
+ini dilakukan dengan menggunakan karakter backslash (`\`). Misalnya, pada kode berikut:
 ```python
 if a == True and b == False and \
     c == True:
