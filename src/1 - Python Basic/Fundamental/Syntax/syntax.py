@@ -1,3 +1,6 @@
+# mengimpor module keyword
+import keywords
+
 # mendefinisikan fungsi main
 def main():
     i = 1
