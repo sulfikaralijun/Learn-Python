@@ -71,3 +71,5 @@ string_triple = '''
 Ini adalah string,
 ini menggunakan triple quote
 '''
+
+print(string_single)
