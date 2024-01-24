@@ -8,7 +8,7 @@ bisa menggunakan semicolon**.
 
 Jika Anda pernah bekerja dalam bahasa pemrograman lain seperti `Java`, `C#`, atau `C`/`C++`, Anda pasti tahu bahwa bahasa-bahasa ini menggunakan titik koma (`;`) untuk memisahkan pernyataan.
 
-Namun, Python menggunakan `whitespace` dan lekukan untuk membangun struktur kode.
+Namun, Python menggunakan `whitespace` dan `indentation` untuk membangun struktur kode.
 ```python
 def main():
   i = 1
