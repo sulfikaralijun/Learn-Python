@@ -1,5 +1,5 @@
 # mengimpor module keyword
-import keywords
+import keyword
 
 # mendefinisikan fungsi main
 def main():
@@ -26,3 +26,5 @@ if a == True and b == False and \
     c == True:
   print("Continuation of statements")
 
+
+print(keyword.kwlist)
