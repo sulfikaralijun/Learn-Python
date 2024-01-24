@@ -46,3 +46,8 @@ KelasMobil = "Sedan"
 # Pemberian Nama yang Dapat Dimengerti
 hitung_gaji = 5000
 nama_pengguna = "JohnDoe"
+
+# Camel Case untuk Nama Kelas
+class KendaraanBermotor:
+    def __init__(self, jenis):
+        self.jenis = jenis
