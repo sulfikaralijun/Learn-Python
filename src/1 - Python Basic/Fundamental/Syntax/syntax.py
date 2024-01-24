@@ -6,5 +6,5 @@ def main():
         print(i)
         i = i + 1
 
-# call function main 
+# memanggil fungsi main
 main()
