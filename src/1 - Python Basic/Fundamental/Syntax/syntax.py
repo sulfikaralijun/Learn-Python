@@ -74,3 +74,4 @@ ini menggunakan triple quote
 
 print(string_single)
 print(string_double)
+print(string_triple)
