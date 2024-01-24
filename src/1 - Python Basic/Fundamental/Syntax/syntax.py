@@ -1,4 +1,4 @@
-# define main function to print out something
+# mendefinisikan fungsi main
 def main():
     i = 1
     max = 10
