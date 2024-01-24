@@ -151,3 +151,4 @@ ini menggunakan triple quote
 ## Kesimpulan
 
 - Python menggunakan `whitespace` (spasi, tab, indentasi) untuk menentukan struktur kode, berbeda dari beberapa bahasa pemrograman yang menggunakan tanda baca seperti semicolon(`;`).
+- Kelebihan penggunaan whitespace dan `indentasi` dalam Python termasuk konsistensi gaya penulisan, kemudahan membaca, dan menghindari kebutuhan titik koma di akhir setiap pernyataan.
