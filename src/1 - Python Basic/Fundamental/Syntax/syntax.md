@@ -147,3 +147,7 @@ Ini adalah string,
 ini menggunakan triple quote
 '''
 ```
+
+## Kesimpulan
+
+- Python menggunakan `whitespace` (spasi, tab, indentasi) untuk menentukan struktur kode, berbeda dari beberapa bahasa pemrograman yang menggunakan tanda baca seperti semicolon.
