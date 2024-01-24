@@ -8,6 +8,7 @@ print("Hello World!")
 def main():
     i = 1
     max = 5
+    # perulangan menggunakan while
     while (i < max):
         print(i)
         i = i + 1
