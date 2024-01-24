@@ -19,7 +19,7 @@ def main():
 
 main()
 ```
-Makna dari kode tersebut tidak terlalu penting untuk Anda saat ini.
+Makna dari kode tersebut tidak terlalu penting untuk Anda saat ini. Yang perlu diperhatikan adalah bagaimana struktur kodenya dibuat.
 
 ## Comments
 
