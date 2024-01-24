@@ -25,6 +25,7 @@ Di setiap baris, tidak ada penggunaan titik koma untuk mengakhiri pernyataan. Se
 
 Kelebihan penggunaan lekukan dan spasi dalam menulis kode Python adalah:
 - Tidak perlu khawatir melewatkan awal atau akhir bagian tertentu dari kode. Ini berbeda dengan bahasa pemrograman lain seperti `Java` atau `C#`.
+- Gaya penulisan kodenya tetap konsisten. Jika Anda bekerja bersama developer lain, kodenya akan terlihat sama seperti milik Anda.
 
 ## Comments
 
