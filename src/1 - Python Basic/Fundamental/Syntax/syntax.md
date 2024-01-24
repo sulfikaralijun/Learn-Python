@@ -156,4 +156,4 @@ ini menggunakan triple quote
 - `Statement` dalam Python dapat melintasi beberapa baris dengan menggunakan karakter backslash (`\`).
 - `Keywords` adalah kata-kata khusus dengan arti tertentu dalam Python, contohnya `def`, `while`, `print()`. Modul keyword menyediakan daftar lengkap kata kunci Python.
 - `Identifiers` adalah nama yang digunakan untuk mengidentifikasi variabel, fungsi, kelas, atau objek dalam program Python. Mereka bersifat `case-sensitive`, dapat terdiri dari huruf, angka, dan underscore, tetapi tidak boleh diawali dengan angka atau mengandung karakter khusus.
-- Python menggunakan `single quote`, `double quote`, dan `triple quote` untuk menunjukkan string literals. Penting untuk menggunakan tanda kutip yang sama untuk memulai dan mengakhiri string.
+- Python menggunakan single quote (`'`), double quote (`"`), dan triple quote (`'''` atau `"""`) untuk menunjukkan string literals. Penting untuk menggunakan tanda kutip yang sama untuk memulai dan mengakhiri string.
