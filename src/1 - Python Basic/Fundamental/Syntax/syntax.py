@@ -1,6 +1,7 @@
 # mengimpor module keyword
 import keyword
 
+# menampilkan teks di terminal atau console
 print("Hello World!")
 
 # mendefinisikan fungsi main
