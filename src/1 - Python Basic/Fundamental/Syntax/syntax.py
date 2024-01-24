@@ -11,6 +11,7 @@ main()
 
 # Continuation statement
 a = True
+b = False
 if a == True and b == False and \
     c == True:
   print("Continuation of statements")
