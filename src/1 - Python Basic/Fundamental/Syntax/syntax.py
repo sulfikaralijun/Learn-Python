@@ -1,7 +1,7 @@
 # mendefinisikan fungsi main
 def main():
     i = 1
-    max = 10
+    max = 5
     while (i < max):
         print(i)
         i = i + 1
