@@ -60,7 +60,7 @@ assert     else       import     pass
 break      except     in         raise
 ```
 Python adalah bahasa yang tumbuh dan berkembang. Jadi kata kuncinya akan terus bertambah dan berubah.
-Python menyediakan modul khusus untuk membuat daftar kata kuncinya yang disebut keyword.
+Python menyediakan modul khusus untuk membuat daftar kata kuncinya yang disebut `keyword`.
 ## Identifiers
 
 Identifiers dalam Python adalah nama yang digunakan untuk mengidentifikasi variabel, fungsi, kelas, atau objek lain dalam program. Identifiers sangat penting dalam bahasa pemrograman karena digunakan untuk memberikan nama pada elemen-elemen program sehingga dapat diidentifikasi dan digunakan dengan mudah. Berikut adalah beberapa aturan dan contoh mengenai penggunaan identifiers dalam Python:
