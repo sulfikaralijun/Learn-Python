@@ -6,8 +6,7 @@ bisa menggunakan semicolon**.
 
 ## Whitespace
 
-Whitespace digunakan untuk menentukan blok kode di Python. Misalnya, dalam kode
-berikut:
+Jika Anda pernah bekerja dalam bahasa pemrograman lain seperti `Java`, C#, atau C/C++, Anda pasti tahu bahwa bahasa-bahasa ini menggunakan titik koma ( ;) untuk memisahkan pernyataan.
 ```python
 def main():
   i = 1
