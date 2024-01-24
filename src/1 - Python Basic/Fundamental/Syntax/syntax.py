@@ -28,3 +28,9 @@ if a == True and b == False and \
 
 # menampilakn keyword yang ada pada python versi sekarang (3.10)
 print(keyword.kwlist)
+
+# Contoh Identifiers yang Benar
+namaVariabel = 20
+hitung_jumlah = 8
+_nilai = "Halo"
+KelasMobil = "Sedan"
