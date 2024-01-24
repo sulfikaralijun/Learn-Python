@@ -51,6 +51,8 @@ nama_pengguna = "JohnDoe"
 class KendaraanBermotor:
     def __init__(self, jenis):
         self.jenis = jenis
+        
+mobil = KendaraanBermotor('Mobil')
 
 # Snake Case untuk Variabel dan Fungsi
 nama_pengguna = "JohnDoe"
