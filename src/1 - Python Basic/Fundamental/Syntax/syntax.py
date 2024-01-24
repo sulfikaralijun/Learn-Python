@@ -63,3 +63,6 @@ def hitung_total_gaji(gaji_pokok, tunjangan):
 print(nama_pengguna)
 gaji_pokok = hitung_total_gaji(1200, 500)
 print(gaji_pokok)
+
+# String Literals
+string_single = 'Ini adalah sebuah string yang menggunakan single quote'
