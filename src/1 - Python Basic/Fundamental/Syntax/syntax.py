@@ -26,5 +26,5 @@ if a == True and b == False and \
     c == True:
   print("Continuation of statements")
 
-
+# menampilakn keyword yang ada pada python versi sekarang (3.10)
 print(keyword.kwlist)
