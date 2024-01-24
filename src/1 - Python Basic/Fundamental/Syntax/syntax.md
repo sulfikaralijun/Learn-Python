@@ -22,7 +22,7 @@ dengan spasi 4 karakter dan berakhir dengan spasi 4 karakter.
 
 ## Comments
 
-Comments digunakan untuk menjelaskan kode. Comments dimulai dengan tanda pagar
+Comments digunakan untuk menjelaskan kode. Ketika Python interpreter mengeksekusi kode, ia mengabaikan komentar. Comments dimulai dengan tanda pagar
 (#). Misalnya, kode berikut:
 ```python
 # Ini adalah komentar satu baris
