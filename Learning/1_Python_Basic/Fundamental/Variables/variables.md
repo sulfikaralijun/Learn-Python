@@ -46,5 +46,5 @@ Untuk mendefinisikan suatu variabel, Anda menggunakan sintaks berikut:
 ```plaintext
 variabel_name = value
 ```
-`=`
+`=` adalah operator penugasan
 
