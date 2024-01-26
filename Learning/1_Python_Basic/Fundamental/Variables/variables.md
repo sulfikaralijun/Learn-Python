@@ -52,5 +52,5 @@ counter = 1
 ```
 
 ## Penamaan variabel
-Saat anda memberi nama variabel, Anda harus
+Saat anda memberi nama variabel, Anda harus mematuhi
 
