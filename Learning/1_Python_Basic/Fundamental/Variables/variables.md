@@ -21,3 +21,10 @@ Umur: 17
 dalam contoh diatas, variabel `name` dan `age` digunakan untuk menyimpan informasi tentang seseorang. Variabel-variabel ini kemudian dapat digunakan dan diakses di berbagai bagian dalam program Python.
 
 Nilai pada variabel di Python dapat di ubah sesuai dengan yang dibutuhkan, seperti pada contoh berikut:
+```python
+message = 'Hello World!'
+print(message)
+
+message = 'Good Bye!'
+print(message)
+```
