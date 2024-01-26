@@ -18,3 +18,4 @@ Output:
 Nama: Sulfikar
 Umur: 17
 ```
+dalam contoh diatas
