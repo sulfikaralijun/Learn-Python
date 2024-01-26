@@ -18,4 +18,4 @@ Output:
 Nama: Sulfikar
 Umur: 17
 ```
-dalam contoh diatas, variabel `name` dan `age` digunakan untuk menyimpan informasi tentang seseorang. Variabel-variabel ini kemudian dapat digunakan 
+dalam contoh diatas, variabel `name` dan `age` digunakan untuk menyimpan informasi tentang seseorang. Variabel-variabel ini kemudian dapat digunakan dan diakses diberbagai
