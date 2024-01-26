@@ -52,5 +52,5 @@ counter = 1
 ```
 
 ## Penamaan variabel
-Saat anda memberi nama variabel, Anda harus mematuhi beberapa aturan. Jika tidak, Anda akan mendapatkan kesalahan pada code anda.
+Saat anda memberi nama variabel, Anda harus mematuhi beberapa aturan. Jika tidak, Anda akan mendapatkan kesalahan pada kode anda.
 
