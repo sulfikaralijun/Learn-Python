@@ -52,5 +52,5 @@ counter = 1
 ```
 
 ## Penamaan variabel
-Saat anda 
+Saat anda memberi
 
