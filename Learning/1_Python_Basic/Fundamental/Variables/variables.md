@@ -13,3 +13,8 @@ age = 17          # Variabel age dengan nilai 17 (tipe data Integer)
 print('Nama: ', name)
 print('Umur: ' age)
 ```
+Output:
+```bash
+Nama: Sulfikar
+Umur: 17
+```
