@@ -42,5 +42,5 @@ text_age = 'tujuh belas'
 ```
 
 ## Membuat variabel
-
+Untuk mendefinisikan suatu variabel,
 
