@@ -28,4 +28,4 @@ print(message)
 message = 'Good Bye!'
 print(message)
 ```
-Pada contoh tersebut,
+Pada contoh tersebut, `message` adalah sebuah variable yang memiliki nilai awal `Hello World`
