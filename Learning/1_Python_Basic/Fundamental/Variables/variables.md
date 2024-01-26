@@ -34,4 +34,9 @@ Anda juga dapat mengubah nilai pada variabel walaupun tipe datanya berbeda tetap
 age = 17
 age = 'tujuh belas'
 ```
+dari pada melakukan seperti itu, anda dapat membuat variable baru untuk nilai yang tipe datamya berbeda seperti pada code berikut:
+```python
+age = 17
+text_age = 'tujuh belas'
+```
 
