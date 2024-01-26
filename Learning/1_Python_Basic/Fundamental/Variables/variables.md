@@ -29,3 +29,7 @@ message = 'Good Bye!'
 print(message)
 ```
 Pada contoh tersebut, `message` adalah sebuah variable yang memiliki nilai awal `Hello World`, kemudian nilai akan berubah menjadi `Good Bye!` pada baris ke-4. Anda juga dapat mengubah nilai pada variabel walaupun tipe datanya berbeda, contohnya:
+```python
+age = 17
+age = 'tujuh belas'
+```
