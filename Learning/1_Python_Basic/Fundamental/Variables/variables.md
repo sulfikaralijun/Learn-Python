@@ -1,3 +1,3 @@
 # Python Variable
 
-Dalam pembelajaran ini, Anda akan mempelajari tentang Variabel di Python, Anda juga akan mempelajari bagaimana cara menggunakan variabel secara efektif.
+Pada bagian ini, Anda akan mempelajari tentang Variabel di Python, dan bagaimana menggunakan variabel secara efektif.
