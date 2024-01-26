@@ -5,3 +5,9 @@ age = 17          # Variabel age dengan nilai 17 (tipe data Integer)
 # Menampilkan nilai variabel
 print('Nama: ', name)
 print('Umur: ', age)
+
+message = 'Hello World!'
+print(message)
+
+message = 'Good Bye!'
+print(message)

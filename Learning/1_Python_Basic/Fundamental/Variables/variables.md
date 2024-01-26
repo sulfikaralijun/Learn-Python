@@ -28,3 +28,4 @@ print(message)
 message = 'Good Bye!'
 print(message)
 ```
+Pada contoh tersebut,
