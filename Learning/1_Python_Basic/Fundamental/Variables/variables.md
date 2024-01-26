@@ -47,5 +47,5 @@ Untuk mendefinisikan suatu variabel, Anda menggunakan sintaks berikut:
 variabel_name = value
 ```
 `=` adalah operator penugasan, Dalam sintaks ini, Anda menetapkan `value` ke `variabel_name`. Nilainya bisa berupa __string__, __number__, dll. Berikut ini contoh mendefiniskan variabel bernama `counter` dan memberikan nilai 1 sebagai valuenya.
-```
+```python
 
