@@ -41,3 +41,6 @@ age = 17
 text_age = 'tujuh belas'
 ```
 
+## Membuat variabel
+
+
