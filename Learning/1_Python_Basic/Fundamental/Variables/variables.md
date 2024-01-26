@@ -11,7 +11,7 @@ age = 17          # Variabel age dengan nilai 17 (tipe data Integer)
 
 # Menampilkan nilai variabel
 print('Nama: ', name)
-print('Umur: ' age)
+print('Umur: ', age)
 ```
 Output:
 ```bash
