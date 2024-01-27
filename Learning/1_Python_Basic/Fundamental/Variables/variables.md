@@ -61,4 +61,4 @@ Berikut ini adalah aturan variabel yang harus anda ingat:
 - Nama variabel tidak boleh sama dengan kata kunci, kata cadangan, dan fungsi bawaan di Python.
 
 Berikut cara membuat nama variabel yang baik:
-- Nama variabel harus singkat dan deskriptif.
+- Nama variabel harus singkat dan deskriptif. Misalnya, `last_name` nama variabelnya lebih deskriptif dibanding `ln`.
