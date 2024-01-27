@@ -58,4 +58,4 @@ Saat anda memberi nama variabel, Anda harus mematuhi beberapa aturan. Jika tidak
 Berikut ini adalah aturan variabel yang harus anda ingat:
 - Nama variabel hanya boleh berisi huruf, angka, dan garis bawah (`_`). Mereka bisa dimulai dengan huruf atau garis bawah (`_`), bukan dengan angka.
 - Nama variabel tidak boleh mengandung spasi. Untuk memisahkan kata dalam variabel, Anda dapat menggunakan garis bawah misalnya `first_name`.
-- Nama variabel tidak boleh sama dengan kata kunci, kata cadangan,
+- Nama variabel tidak boleh sama dengan kata kunci, kata cadangan, dan fungsi bawaan di Python.
