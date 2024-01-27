@@ -56,3 +56,4 @@ counter = 1
 Saat anda memberi nama variabel, Anda harus mematuhi beberapa aturan. Jika tidak, Anda akan mendapatkan kesalahan pada kode anda.
 
 Berikut ini adalah aturan variabel yang harus anda ingat:
+- Nama variabel hanya boleh berisi huruf,
