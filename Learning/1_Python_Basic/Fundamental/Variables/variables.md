@@ -41,6 +41,7 @@ age = 17
 text_age = 'tujuh belas'
 ```
 
+
 ## Membuat variabel
 Untuk mendefinisikan suatu variabel, Anda menggunakan sintaks berikut:
 ```plaintext
@@ -54,3 +55,4 @@ counter = 1
 ## Penamaan variabel
 Saat anda memberi nama variabel, Anda harus mematuhi beberapa aturan. Jika tidak, Anda akan mendapatkan kesalahan pada kode anda.
 
+Berikut ini adalah aturan variabel yang harus anda ingat:
