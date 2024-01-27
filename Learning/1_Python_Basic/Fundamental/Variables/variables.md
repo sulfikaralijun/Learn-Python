@@ -64,3 +64,6 @@ Berikut cara membuat nama variabel yang baik:
 - Nama variabel harus singkat dan deskriptif. Misalnya, `last_name` nama variabelnya lebih deskriptif dibanding `ln`.
 - Gunakan garis bawah (`_`) untuk memisahkan beberapa kata dalam nama variabel.
 - Hindari penggunaan huruf `l` dan huruf besar `O` karena mirip dengan angka `1` dan `0`.
+
+## Kesimpulan
+- 
