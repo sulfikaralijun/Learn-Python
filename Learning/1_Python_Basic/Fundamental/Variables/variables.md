@@ -66,4 +66,3 @@ Berikut cara membuat nama variabel yang baik:
 - Hindari penggunaan huruf `l` dan huruf besar `O` karena mirip dengan angka `1` dan `0`.
 
 ## Kesimpulan
-- 
