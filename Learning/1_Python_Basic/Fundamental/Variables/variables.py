@@ -11,3 +11,6 @@ print(message)
 
 message = 'Good Bye!'
 print(message)
+
+age = 17
+age = 'tujuh belas'
