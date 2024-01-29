@@ -1,3 +1,4 @@
 {
-	"GitHooks.hooksDirectory": "/home/sulfikar/Desktop/programming/python/Learn-Python/.git/hooks"
+	"GitHooks.hooksDirectory": "/home/sulfikar/Desktop/programming/python/Learn-Python/.git/hooks/pre-commit"
+	
 }
