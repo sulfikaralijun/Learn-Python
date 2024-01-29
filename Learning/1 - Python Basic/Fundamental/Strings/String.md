@@ -7,3 +7,4 @@
 message = 'This is a string in Python'
 message = "This is also a string"
  ```
+ jika string berisi tanda kutip tunggal,
