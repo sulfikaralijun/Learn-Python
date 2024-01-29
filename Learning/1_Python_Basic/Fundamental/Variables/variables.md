@@ -66,4 +66,4 @@ Berikut cara membuat nama variabel yang baik:
 - Hindari penggunaan huruf `l` dan huruf besar `O` karena mirip dengan angka `1` dan `0`.
 
 ## Ringkasan
-- Variabel adalah label yang dapat anda berikan nilai padanya. Nilai suatu variabel
+- Variabel adalah label yang dapat anda berikan nilai padanya. Nilai suatu variabel dapat berubah sepanjang program.
