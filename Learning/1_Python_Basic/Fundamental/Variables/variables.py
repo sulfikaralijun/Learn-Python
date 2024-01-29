@@ -16,5 +16,6 @@ print(message)
 age = 17
 age = 'tujuh belas'
 
+# disarankan membuat variabel seperti ini
 age = 17
 text_age = 'tujuh belas'
