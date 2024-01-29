@@ -7,4 +7,4 @@
 message = 'This is a string in Python'
 message = "This is also a string"
  ```
- jika string berisi tanda kutip tunggal,
+ jika string berisi tanda kutip tunggal, Anda harus menempatkannya dalam tanda kutip ganda seperti ini:
