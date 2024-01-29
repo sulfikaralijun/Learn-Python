@@ -12,7 +12,7 @@ print(message)
 message = 'Good Bye!'
 print(message)
 
-
+# tidak disarankan membuat variabel seperti ini
 age = 17
 age = 'tujuh belas'
 
