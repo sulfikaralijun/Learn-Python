@@ -1,2 +1,2 @@
 # Python String
- Dalam tutorial ini,
+ Dalam tutorial ini, Anda akan belajar tentang string Python dan operasi dasarnya.
