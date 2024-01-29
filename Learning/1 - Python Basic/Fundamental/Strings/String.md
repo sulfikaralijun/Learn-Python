@@ -2,4 +2,4 @@
  Dalam tutorial ini, Anda akan belajar tentang string Python dan operasi dasarnya.
 
  ## Pengantar String Python
- String adalah serangkaian karakter.
+ String adalah serangkaian karakter. Di Python,
