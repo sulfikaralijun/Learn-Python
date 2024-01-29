@@ -68,3 +68,4 @@ Berikut cara membuat nama variabel yang baik:
 ## Ringkasan
 - Variabel adalah label yang dapat anda berikan nilai padanya. Nilai suatu variabel dapat berubah sepanjang program.
 - Gunakan `variable_name = value` untuk membuat variabel.
+- Nama variabel
