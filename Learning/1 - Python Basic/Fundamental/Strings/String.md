@@ -49,5 +49,6 @@ Usage: mysql command
 Terkadang, Anda ingin menggunakan  nilai [variabel](../Variables/Variables.md) dalam sebuah string.
 Misalnya, Anda mungkin ingin menggunakan nilai variabel `name` didalam `message` variabel string:
 ```python
-
+name = 'John'
+message = 'Hi'
 ```
