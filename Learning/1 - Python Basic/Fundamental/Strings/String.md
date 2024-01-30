@@ -54,5 +54,8 @@ message = 'Hi'
 ```
 Untuk melakukannya, letakan huruf `f` sebelum quotes pembuka dan beri tanda kurung kurawal di sekitar nama variabel:
 ```python
+name = 'John'
+message = f'Hi {name}'
 
+print(message)
 ```
