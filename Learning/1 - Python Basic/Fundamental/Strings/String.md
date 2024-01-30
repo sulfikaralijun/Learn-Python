@@ -27,5 +27,5 @@ message = r'C:\python\bin'
 untuk merentangkan string beberapa baris, Anda menggunakan triple quotes `"""..."""` atau `"'..."'`. Misalnya:
 ```python
 help_message = '''
-
+Usage: mysql command
 ```
