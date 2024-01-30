@@ -16,3 +16,7 @@ message = "It's a string"
 message = '"Beautiful is better than ugly.". Said Tim Peters'
  ```
  Untuk menghindari quotes, gunakan backslash (`\`). Misalnya:
+ ```python
+message = 'It\'s also a valid string'
+ ```
+ 
