@@ -44,3 +44,6 @@ Usage: mysql command
     -u : username
     -p : password
 ```
+
+## Menggunakan variabel dalam string Python dengan f-string
+
