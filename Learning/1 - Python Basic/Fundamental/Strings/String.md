@@ -24,3 +24,4 @@ Interpreter Python akan memperlakukan karakter backslash (`\`) secara khusus. Ji
 message = r'C:\python\bin'
 ```
 **Membuat string multiline**
+untuk merentangkan string beberapa baris, Anda menggunakan triple quotes `"""..."""` atau `"'..."'`.
