@@ -19,4 +19,4 @@ message = '"Beautiful is better than ugly.". Said Tim Peters'
  ```python
 message = 'It\'s also a valid string'
  ```
- 
+Interpreter Python akan memperlakukan karakter backslash (`\`) secara khusus.
