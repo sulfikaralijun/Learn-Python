@@ -9,5 +9,5 @@ message = "This is also a string"
  ```
  jika string berisi tanda kutip tunggal, Anda harus menempatkannya dalam tanda kutip ganda seperti ini:
  ```python
-message = ""
+message = "It's a string"
  ```
