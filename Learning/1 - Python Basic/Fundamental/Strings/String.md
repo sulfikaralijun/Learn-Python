@@ -11,4 +11,4 @@ message = "This is also a string"
  ```python
 message = "It's a string"
  ```
- Dan ketika sebuah string berisi
+ Dan ketika sebuah string berisi tanda
