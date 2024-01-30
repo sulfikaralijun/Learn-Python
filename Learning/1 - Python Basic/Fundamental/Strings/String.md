@@ -23,5 +23,4 @@ Interpreter Python akan memperlakukan karakter backslash (`\`) secara khusus. Ji
 ```python
 message = r'C:\python\bin'
 ```
-
 **Membuat string multiline**
