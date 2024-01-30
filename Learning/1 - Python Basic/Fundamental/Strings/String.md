@@ -11,7 +11,7 @@ message = "This is also a string"
  ```python
 message = "It's a string"
  ```
- Dan ketika sebuah string berisi double quote, Anda dapat menggunakan tanda kutip tunggal:
+ Dan ketika sebuah string berisi double quote, Anda dapat menggunakan singgle quote:
  ```python
 message = '"Beautiful is better than ugly.". Said Tim Peters'
  ```
