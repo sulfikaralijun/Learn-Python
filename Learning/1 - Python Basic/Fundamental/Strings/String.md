@@ -46,4 +46,4 @@ Usage: mysql command
 ```
 
 ## Menggunakan variabel dalam string Python dengan f-string
-Terkadang,
+Terkadang, Anda ingin menggunakan  nilai [variabel](../Variables/Variables.md) dalam sebuah string.
