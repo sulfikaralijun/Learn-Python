@@ -21,5 +21,5 @@ message = 'It\'s also a valid string'
  ```
 Interpreter Python akan memperlakukan karakter backslash (`\`) secara khusus. Jika Anda tidak menginginkannya, Anda dapat menggunakan string mentah dengan menambahkan huruf `r` sebelum quotes pertama. Misalnya:
 ```python
-
+message = r'C:\python\bin'
 ```
