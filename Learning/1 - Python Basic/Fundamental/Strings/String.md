@@ -29,4 +29,5 @@ untuk merentangkan string beberapa baris, Anda menggunakan triple quotes `"""...
 help_message = '''
 Usage: mysql command
     -h : hostname
+    -d : database name
 ```
