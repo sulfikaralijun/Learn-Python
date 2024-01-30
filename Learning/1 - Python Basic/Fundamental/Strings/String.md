@@ -28,4 +28,5 @@ untuk merentangkan string beberapa baris, Anda menggunakan triple quotes `"""...
 ```python
 help_message = '''
 Usage: mysql command
+    -h : hostname
 ```
