@@ -7,7 +7,7 @@
 message = 'This is a string in Python'
 message = "This is also a string"
  ```
- jika string berisi singgle quote, Anda harus menempatkannya dalam tanda kutip ganda seperti ini:
+ jika string berisi singgle quote, Anda harus menempatkannya dalam double quote seperti ini:
  ```python
 message = "It's a string"
  ```
