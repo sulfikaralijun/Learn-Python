@@ -52,3 +52,4 @@ Misalnya, Anda mungkin ingin menggunakan nilai variabel `name` didalam `message`
 name = 'John'
 message = 'Hi'
 ```
+Untuk melakukannya, letakan huruf `f` sebelum quotes pembuka dan beri tanda kurung kurawal di sekitar nama variabel:
