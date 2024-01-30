@@ -32,4 +32,7 @@ Usage: mysql command
     -d : database name
     -u : username
     -p : password
+'''
+
+print(help_message)
 ```
