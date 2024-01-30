@@ -36,3 +36,4 @@ Usage: mysql command
 
 print(help_message)
 ```
+Ini akan menampilkan seperti dibawah ini jika Anda menjalankan program:
