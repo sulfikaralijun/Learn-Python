@@ -13,5 +13,5 @@ message = "It's a string"
  ```
  Dan ketika sebuah string berisi tanda kutip ganda, Anda dapat menggunakan tanda kutip tunggal:
  ```python
-message = '""'
+message = '"Beautiful"'
  ```
