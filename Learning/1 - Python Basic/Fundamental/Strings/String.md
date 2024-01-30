@@ -37,3 +37,10 @@ Usage: mysql command
 print(help_message)
 ```
 Ini akan menampilkan seperti dibawah ini jika Anda menjalankan program:
+```bash
+Usage: mysql command
+    -h : hostname
+    -d : database name
+    -u : username
+    -p : password
+```
