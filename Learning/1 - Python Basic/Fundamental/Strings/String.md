@@ -60,3 +60,7 @@ message = f'Hi {name}'
 print(message)
 ```
 Python akan mengganti `{name}` dengan nilai variabel `name`. Kode akan menampilkan yang berikut di layar:
+```text
+Hi John
+```
+`message` adalah format string, atau singkatnya f-string. Python memperkenalkan f-string di versi 3.6. 
