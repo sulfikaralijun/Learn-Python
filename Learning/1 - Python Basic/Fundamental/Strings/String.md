@@ -11,4 +11,4 @@ message = "This is also a string"
  ```python
 message = "It's a string"
  ```
- Dan ketika sebuah string berisi tanda kutip ganda, Anda dapat
+ Dan ketika sebuah string berisi tanda kutip ganda, Anda dapat menggunakan
