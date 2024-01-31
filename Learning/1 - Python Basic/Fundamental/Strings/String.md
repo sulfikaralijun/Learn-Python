@@ -69,4 +69,4 @@ Hi John
 Saat Anda menempatkan string literal disamping satu sama lain, Python secara otomatis menggabungkan menjadi satu string. Misalnya:
 ```python
 greeting = 'Good' 'Morning!'
-print
+print()
