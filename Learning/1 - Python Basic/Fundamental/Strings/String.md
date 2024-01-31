@@ -68,4 +68,4 @@ Hi John
 ## Menggabungkan String Python
 Saat Anda menempatkan string literal disamping satu sama lain, Python secara otomatis menggabungkan menjadi satu string. Misalnya:
 ```python
-greeting = 'Good'
+greeting = 'Good' ''
