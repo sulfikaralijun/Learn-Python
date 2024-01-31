@@ -80,4 +80,4 @@ Untuk menggabungkan dua variabel string, gunakan operator `+`:
 greeting = 'Good'
 time = 'Afternoon'
 
-greeting = 
+greeting = greeting
