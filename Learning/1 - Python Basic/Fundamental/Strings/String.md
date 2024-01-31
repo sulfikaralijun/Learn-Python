@@ -70,3 +70,4 @@ Saat Anda menempatkan string literal disamping satu sama lain, Python secara oto
 ```python
 greeting = 'Good' 'Morning!'
 print(greeting)
+```
