@@ -65,4 +65,4 @@ Hi John
 ```
 `message` adalah format string, atau singkatnya f-string. Python memperkenalkan f-string di versi 3.6.
 
-## Menggambungkan String
+## Menggambungkan String Python
