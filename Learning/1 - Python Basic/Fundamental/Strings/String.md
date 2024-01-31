@@ -77,3 +77,4 @@ Good Morning!
 ```
 Untuk menggabungkan dua variabel string, gunakan operator `+`:
 ```python
+greeting
