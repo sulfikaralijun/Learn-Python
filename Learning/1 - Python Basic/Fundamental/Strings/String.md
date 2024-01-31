@@ -66,4 +66,4 @@ Hi John
 `message` adalah format string, atau singkatnya f-string. Python memperkenalkan f-string di versi 3.6.
 
 ## Menggabungkan String Python
-Saat Anda menempatkan string literal disamping satu sama lain, Python secara otomatis menggabungkan menjadi satu string.
+Saat Anda menempatkan string literal disamping satu sama lain, Python secara otomatis menggabungkan menjadi satu string. Misalnya
