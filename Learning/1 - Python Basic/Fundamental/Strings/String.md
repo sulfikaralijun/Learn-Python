@@ -83,3 +83,7 @@ time = 'Afternoon'
 greeting = greeting + time + '!'
 print(greeting)
 ```
+Output:
+```text
+Good Afternoon!
+```
