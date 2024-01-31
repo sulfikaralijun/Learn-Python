@@ -75,4 +75,4 @@ Output:
 ```text
 Good Morning!
 ```
-Untuk menggabungkan
+Untuk menggabungkan dua
