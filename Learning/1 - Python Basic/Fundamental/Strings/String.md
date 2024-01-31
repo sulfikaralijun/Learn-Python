@@ -71,3 +71,4 @@ Saat Anda menempatkan string literal disamping satu sama lain, Python secara oto
 greeting = 'Good' 'Morning!'
 print(greeting)
 ```
+Output:
