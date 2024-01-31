@@ -75,4 +75,4 @@ Output:
 ```text
 Good Morning!
 ```
-Untuk menggabungkan dua variabel
+Untuk menggabungkan dua variabel string
