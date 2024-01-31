@@ -79,3 +79,5 @@ Untuk menggabungkan dua variabel string, gunakan operator `+`:
 ```python
 greeting = 'Good'
 time = 'Afternoon'
+
+greeting
