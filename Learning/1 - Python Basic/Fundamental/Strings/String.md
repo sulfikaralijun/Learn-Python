@@ -87,3 +87,5 @@ Output:
 ```text
 Good Afternoon!
 ```
+
+## Mengakses Elemen String
