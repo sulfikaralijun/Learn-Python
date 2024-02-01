@@ -89,4 +89,4 @@ Good Afternoon!
 ```
 
 ## Mengakses Elemen String
-Karena String adalah rangkaian karakter, Anda dapat
+Karena String adalah rangkaian karakter, Anda dapat mengakses
