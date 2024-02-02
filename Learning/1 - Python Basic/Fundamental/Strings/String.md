@@ -98,4 +98,4 @@ print(str[1]) # Y
 ```
 Bagaimana hal tersebut bekerja:
 - Pertama, buat variabel yang menampung string `"Python String"`.
-- Kemudian, akses karakter pertama
+- Kemudian, akses karakter pertama dan
