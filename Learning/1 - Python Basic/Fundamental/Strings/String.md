@@ -92,4 +92,4 @@ Good Afternoon!
 Karena String adalah rangkaian karakter, Anda dapat mengakses elemennya menggunakan indeks. Karakter pertama dalam string memiliki indeks nol.
 Contoh berikut menunjukkan cara mengakses elemen menggunakan indeks:
 ```python
-str = ""
+str = "Python"
