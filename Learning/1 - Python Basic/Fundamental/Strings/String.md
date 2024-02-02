@@ -97,4 +97,4 @@ print(str[0]) # P
 print(str[1]) # Y
 ```
 Bagaimana hal tersebut bekerja:
-- Pertama, buat variabel yang menampung string `"Python"`
+- Pertama, buat variabel yang menampung string `"Python String"`
