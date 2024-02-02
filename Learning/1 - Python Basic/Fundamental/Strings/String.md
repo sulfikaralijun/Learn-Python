@@ -96,4 +96,4 @@ str = "Python String"
 print(str[0]) # P
 print(str[1]) # Y
 ```
-Bagaimana hal 
+Bagaimana hal tersebut
