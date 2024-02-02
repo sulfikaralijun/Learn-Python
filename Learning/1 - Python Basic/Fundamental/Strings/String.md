@@ -95,3 +95,4 @@ Contoh berikut menunjukkan cara mengakses elemen menggunakan indeks:
 str = "Python String"
 print(str[0]) # P
 print(str[1]) # Y
+```
