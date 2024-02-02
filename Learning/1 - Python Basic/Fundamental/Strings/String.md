@@ -94,4 +94,4 @@ Contoh berikut menunjukkan cara mengakses elemen menggunakan indeks:
 ```python
 str = "Python String"
 print(str[0]) # P
-print(str)
+print(str[])
