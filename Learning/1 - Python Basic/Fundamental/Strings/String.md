@@ -93,4 +93,4 @@ Karena String adalah rangkaian karakter, Anda dapat mengakses elemennya mengguna
 Contoh berikut menunjukkan cara mengakses elemen menggunakan indeks:
 ```python
 str = "Python String"
-print
+print()
