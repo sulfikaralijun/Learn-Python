@@ -137,4 +137,5 @@ Bagaimana hal tersebut bekerja:
 
 ```python
 str = 'Python String'
+print(str[-1])
 ```
