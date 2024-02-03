@@ -166,3 +166,7 @@ Output:
 ```bash
 13
 ```
+
+## Mengiris string
+
+Mengiris string memungkinkan Anda mendapatkan substring dari sebuah string
