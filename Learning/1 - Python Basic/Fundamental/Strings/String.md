@@ -142,13 +142,15 @@ print(str[-2]) # n
 ```
 
 Berikut ilustrasi indeks string `"Python String"`:
+
 ```text
 +---+---+---+---+---+---+---+---+---+---+---+---+---+
-| P | y | t | h | o | n |   | S | t | r | i | n | g | 
+| P | y | t | h | o | n |   | S | t | r | i | n | g |
 +---+---+---+---+---+---+---+---+---+---+---+---+---+
   0   1   2   3   4   5   6   7   8   9   10  11  12
--13  -12  -11  -10 -9  -8  -7  -6  -5  -4  -3  -2  -1 
+-13  -12  -11  -10 -9  -8  -7  -6  -5  -4  -3  -2  -1
 ```
 
 ## Mendapatkan panjang string
-Untuk mendapatkan panjang string,
+
+Untuk mendapatkan panjang string, dapat menggunakan fungsi
