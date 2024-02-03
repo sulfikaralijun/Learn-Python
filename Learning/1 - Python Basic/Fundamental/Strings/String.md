@@ -157,5 +157,5 @@ Untuk mendapatkan panjang string, dapat menggunakan fungsi `len()`. Misalnya:
 
 ```python
 str = "Python String"
-
+str_len =len(str)
 ```
