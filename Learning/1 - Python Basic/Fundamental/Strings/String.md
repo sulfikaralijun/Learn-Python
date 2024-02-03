@@ -153,4 +153,4 @@ Berikut ilustrasi indeks string `"Python String"`:
 
 ## Mendapatkan panjang string
 
-Untuk mendapatkan panjang string, dapat menggunakan fungsi `len()`.
+Untuk mendapatkan panjang string, dapat menggunakan fungsi `len()`. Misalnya:
