@@ -169,4 +169,12 @@ Output:
 
 ## Mengiris string
 
-Mengiris string memungkinkan Anda mendapatkan substring dari sebuah string
+Mengiris string memungkinkan Anda mendapatkan substring dari sebuah string. Misalnya:
+```python
+str = "Python String"
+print(str[0:2])
+```
+Output:
+```bash
+Py
+```
