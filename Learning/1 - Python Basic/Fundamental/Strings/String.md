@@ -143,7 +143,7 @@ print(str[-2]) # n
 
 Berikut ilustrasi indeks string `"Python String"`:
 
-```text
+```bash
 +---+---+---+---+---+---+---+---+---+---+---+---+---+
 | P | y | t | h | o | n |   | S | t | r | i | n | g |
 +---+---+---+---+---+---+---+---+---+---+---+---+---+
@@ -159,4 +159,10 @@ Untuk mendapatkan panjang string, dapat menggunakan fungsi `len()`. Misalnya:
 str = "Python String"
 str_len =len(str)
 print(str_len)
+```
+
+Output:
+
+```bash
+13
 ```
