@@ -137,5 +137,6 @@ Bagaimana hal tersebut bekerja:
 
 ```python
 str = 'Python String'
-print(str[-1])
+print(str[-1]) # g
+print(str[-2]) # n
 ```
