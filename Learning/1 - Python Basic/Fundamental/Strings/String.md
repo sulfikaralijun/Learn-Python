@@ -156,5 +156,6 @@ Berikut ilustrasi indeks string `"Python String"`:
 Untuk mendapatkan panjang string, dapat menggunakan fungsi `len()`. Misalnya:
 
 ```python
+str = "Python String"
 
 ```
