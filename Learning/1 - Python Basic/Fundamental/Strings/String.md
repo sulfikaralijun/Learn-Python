@@ -136,7 +136,9 @@ Bagaimana hal tersebut bekerja:
   Jika Anda mwnggunakan indeks negatif, Python mengembalikan karakter mulai dari akhir string. Misalnya:
 
 ```python
-str = 'Python String'
+str = "Python String"
 print(str[-1]) # g
 print(str[-2]) # n
 ```
+
+Berikut ilustrasi indeks string `"Python String"`:
