@@ -142,3 +142,6 @@ print(str[-2]) # n
 ```
 
 Berikut ilustrasi indeks string `"Python String"`:
+```text
+
+```
