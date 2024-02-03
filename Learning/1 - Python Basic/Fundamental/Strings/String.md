@@ -134,6 +134,7 @@ Bagaimana hal tersebut bekerja:
 - Pertama, buat variabel yang menampung string `"Python String"`.
 - Kemudian, akses karakter pertama dan kedua dari string dengan menggunakan tanda kurung siku `[]` dan indeks.
   Jika Anda mwnggunakan indeks negatif, Python mengembalikan karakter mulai dari akhir string. Misalnya:
-```python
 
+```python
+str = 'Python String'
 ```
