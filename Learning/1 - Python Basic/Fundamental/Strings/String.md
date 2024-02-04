@@ -187,4 +187,4 @@ Substring selalu menyertakan karakter di `start` dan tidak termasuk string di `e
 `start` dan `end` bersifat opsional. Jika Anda menghilangkan `start`, defaultnya adalah nol. Dan jika Anda menghilangkan `end`, maka defaultnya adalah panjang string.
 
 ## String Python tidak dapat diubah
-String Python tidaka dapat diubah. Artinya Anda tidak dapat mengubah string.
+String Python tidaka dapat diubah. Artinya Anda tidak dapat mengubah string. Misalnya Anda akan mendapatkan kesalahan jika memperbarui satu atau lebih karakter dalam sebuah string:
