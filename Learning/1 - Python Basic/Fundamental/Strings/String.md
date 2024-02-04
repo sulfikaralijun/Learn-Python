@@ -199,4 +199,4 @@ Traceback (most recent call last):
     str[0] = 'J'
 TypeError: 'str' object does not support item assignment
 ```
-Jika ingin mengubahnya, Anda perlu 
+Jika ingin mengubahnya, Anda perlu membuat yang baru dari string yang sudah ada.
