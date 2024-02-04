@@ -184,4 +184,4 @@ Sintaks untuk mengiris adalah sebagai berikut:
 string[start:end]
 ```
 Substring selalu menyertakan karakter di `start` dan tidak termasuk string di `end`.
-`start` dan `end` bersifat opsional. Jika Anda menghilangkan `start`, defaultnya adalah nol. Dan jika Anda menghilangkan `end`,
+`start` dan `end` bersifat opsional. Jika Anda menghilangkan `start`, defaultnya adalah nol. Dan jika Anda menghilangkan `end`, maka defaultnya adalah panjang string.
