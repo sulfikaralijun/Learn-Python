@@ -190,4 +190,12 @@ Substring selalu menyertakan karakter di `start` dan tidak termasuk string di `e
 String Python tidaka dapat diubah. Artinya Anda tidak dapat mengubah string. Misalnya Anda akan mendapatkan kesalahan jika memperbarui satu atau lebih karakter dalam sebuah string:
 ```python
 str = "Python String"
+str[0] = 'J'
+```
+Error:
+```bash
+Traceback (most recent call last):
+  File "Learn-Python/Learning/1 - Python Basic/Fundamental/Strings/string.py", line 2, in <module>
+    str[0] = 'J'
+TypeError: 'str' object does not support item assignment
 ```
