@@ -178,4 +178,4 @@ Output:
 ```bash
 Py
 ```
-Mengembalikan `str[0:2]` substring yang menyertakan karakter dari indeks 0
+Mengembalikan `str[0:2]` substring yang menyertakan karakter dari indeks 0 (disertakan) hingga 2 (dikecualikan).
