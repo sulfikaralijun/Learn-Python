@@ -180,3 +180,6 @@ Py
 ```
 Mengembalikan `str[0:2]` substring yang menyertakan karakter dari indeks 0 (disertakan) hingga 2 (dikecualikan).
 Sintaks untuk mengiris adalah sebagai berikut:
+```text
+string[start:end]
+```
