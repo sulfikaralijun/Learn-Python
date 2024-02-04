@@ -178,3 +178,4 @@ Output:
 ```bash
 Py
 ```
+Mengembalikan `str[0:2]`
