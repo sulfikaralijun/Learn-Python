@@ -180,3 +180,4 @@ kutip ganda (double quotes) untuk membuat string literal.
 - Tempatkan string literal disamping satu sama lain untuk menggabungkannya. Dan gunakan operator `+` untuk menggabungkan variabel string.
 - Gunakan fungsi `len()` untuk mendapatkan ukuran string.
 - Gunakan `str(n)` untuk mengakses karakter pada posisi n string `str`.
+- Gunakan
