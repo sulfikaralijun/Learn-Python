@@ -161,4 +161,5 @@ TypeError: 'str' object does not support item assignment
 Jika ingin mengubahnya, Anda perlu membuat yang baru dari string yang sudah ada.
 ```python
 str = "Python String"
+new_str = 'J' + str[1:]
 ```
