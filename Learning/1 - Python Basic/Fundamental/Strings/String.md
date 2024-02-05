@@ -162,4 +162,5 @@ Jika ingin mengubahnya, Anda perlu membuat yang baru dari string yang sudah ada.
 ```python
 str = "Python String"
 new_str = 'J' + str[1:]
+print(new_str)
 ```
