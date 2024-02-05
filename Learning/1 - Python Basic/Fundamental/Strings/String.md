@@ -170,3 +170,4 @@ Jython String
 ```
 
 ## Ringkasan
+- Dalam Python,
