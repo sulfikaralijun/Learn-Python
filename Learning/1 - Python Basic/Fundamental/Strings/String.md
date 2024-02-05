@@ -164,3 +164,7 @@ str = "Python String"
 new_str = 'J' + str[1:]
 print(new_str)
 ```
+Output:
+```bash
+Jython String
+```
