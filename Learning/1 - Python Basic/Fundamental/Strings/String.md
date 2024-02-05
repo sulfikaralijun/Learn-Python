@@ -178,4 +178,4 @@ kutip ganda (double quotes) untuk membuat string literal.
 - Gunakan string mentah `r'...'` jika Anda tidak ingin menggunakan karakter backslash.
 - Gunakan f-string untuk menyisipkan variabel pengganti dalam string literal.
 - Tempatkan string literal disamping satu sama lain untuk menggabungkannya. Dan gunakan operator `+` untuk menggabungkan variabel string.
-- Gunakan
+- Gunakan `len()`
