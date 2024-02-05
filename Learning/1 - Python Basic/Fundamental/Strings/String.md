@@ -170,4 +170,4 @@ Jython String
 ```
 
 ## Ringkasan
-- Dalam Python,
+- Dalam Python, string adalah serangkaian karakter.
