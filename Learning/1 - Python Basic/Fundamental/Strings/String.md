@@ -176,4 +176,4 @@ tidak dapat diubah.
 kutip ganda (double quotes) untuk membuat string literal.
 - Gunakan karakter backslash `\` untuk menghindari tanda kutip dalam string.
 - Gunakan string mentah `r'...'` jika Anda tidak ingin menggunakan karakter backslash.
-- Gunakan f-string untuk menyisipkan variabel pengganti dalam
+- Gunakan f-string untuk menyisipkan variabel pengganti dalam string
