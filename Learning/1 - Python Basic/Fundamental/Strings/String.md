@@ -174,7 +174,7 @@ Jython String
 tidak dapat diubah.
 - Gunakan tanda kutip, baik tanda kutip tunggal (single quotes) atau pun tanda
 kutip ganda (double quotes) untuk membuat string literal.
-- Gunakan karakter backslash `\` untuk menghindari tanda kutip dalam string.
+- Gunakan karakter backslash (`\`) untuk menghindari tanda kutip dalam string.
 - Gunakan string mentah `r'...'` jika Anda tidak ingin menggunakan karakter backslash.
 - Gunakan f-string untuk menyisipkan variabel pengganti dalam string literal.
 - Tempatkan string literal disamping satu sama lain untuk menggabungkannya. Dan gunakan operator `+` untuk menggabungkan variabel string.
