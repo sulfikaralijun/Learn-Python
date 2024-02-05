@@ -170,7 +170,7 @@ Jython String
 ```
 
 ## Ringkasan
-- Dalam Python, string adalah serangkaian karakter. Selain itu, string Python
+- Dalam Python, string adalah serangkaian karakter. Selain itu, string pada Python
 tidak dapat diubah.
 - Gunakan tanda kutip, baik tanda kutip tunggal (single quotes) atau pun tanda
 kutip ganda (double quotes) untuk membuat string literal.
