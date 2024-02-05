@@ -175,4 +175,4 @@ tidak dapat diubah.
 - Gunakan tanda kutip, baik tanda kutip tunggal (single quotes) atau pun tanda
 kutip ganda (double quotes) untuk membuat string literal.
 - Gunakan karakter backslash `\` untuk menghindari tanda kutip dalam string.
-- Gunakan string mentah `r'...'` jika
+- Gunakan string mentah `r'...'` jika Anda
