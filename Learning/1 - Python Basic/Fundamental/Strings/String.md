@@ -172,3 +172,4 @@ Jython String
 ## Ringkasan
 - Dalam Python, string adalah serangkaian karakter. Selain itu, string Python
 tidak dapat diubah.
+- Gunakan tanda kutip,
