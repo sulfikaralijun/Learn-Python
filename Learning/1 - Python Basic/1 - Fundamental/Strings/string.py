@@ -66,3 +66,4 @@ print(slice_str)
 slice_str = str[:2]
 print(slice_str)
 slice_str = str[2:]
+print(slice_str)
