@@ -24,4 +24,5 @@ print(path)
 help_message = '''
 Usage: mysql command
     -h hostname
+    -d database name
 '''
