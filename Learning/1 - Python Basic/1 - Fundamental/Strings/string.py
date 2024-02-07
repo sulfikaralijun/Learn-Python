@@ -1,1 +1,1 @@
-message
+message = 'Ini adalah string'
