@@ -46,3 +46,5 @@ time = 'Morning'
 greeting = greeting + time
 
 print(greeting)
+
+# Untuk mengakses karakter dalam string, gunakan indeks karakter tersebut
