@@ -56,3 +56,5 @@ print(str[-1]) # g
 print(str[-7]) #  (whitespace)
 
 # Gunakan fungsi len() untuk mendapatkan panjang string
+len_str = len(str)
+print(len_str) # 13
