@@ -3,7 +3,7 @@
 message = 'Ini adalah string'
 message = "Ini juga adalah sebuah string"
 
-print(message) # Ini juga adalah sebuah string
+print(message)
 
 # Jika string berisi tanda kutip tunggal, maka gunakan 
 # tanda kutip ganda untuk membungkus string, begitupun sebaliknya
