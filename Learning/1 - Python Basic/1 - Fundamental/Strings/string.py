@@ -67,5 +67,5 @@ slice_str = str[:2] # nilai default start adalah 0
 print(slice_str)
 slice_str = str[2:] # nilai default end adalah panjang string
 print(slice_str)
-slice_str = str[:]  
+slice_str = str[:]  # nilai end adalah 0 dan end adalah panjang string
 print(slice_str)
