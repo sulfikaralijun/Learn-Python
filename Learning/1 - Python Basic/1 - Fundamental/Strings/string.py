@@ -48,3 +48,7 @@ greeting = greeting + time
 print(greeting)
 
 # Untuk mengakses karakter dalam string, gunakan indeks karakter tersebut
+str = 'Python String'
+
+print(str[0]) # P
+print(str[2]) # t
