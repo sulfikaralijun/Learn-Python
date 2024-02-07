@@ -35,5 +35,7 @@ Usage: mysql command
 print(help_message)
 
 # Gunakan f-string jika ingin menambahkan nilai varibel kedalam variable lain
-name = 'Sulfikar'
+name = 'John'
 greeting = f'Hi {name}'
+
+print(greeting)
