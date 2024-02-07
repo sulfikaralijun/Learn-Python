@@ -64,3 +64,4 @@ slice_str = str[0:6]
 print(slice_str)
 # anda dapat hanya mengisi nilai start atau hanya end atau bahkan tidak keduanya
 slice_str = str[:2]
+print(slice_str)
