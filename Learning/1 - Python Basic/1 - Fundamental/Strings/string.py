@@ -39,3 +39,6 @@ name = 'John'
 greeting = f'Hi {name}'
 
 print(greeting)
+
+# Untuk menggabungkan 2 variabel string, gunakan '+'
+greeting = 'Good '
