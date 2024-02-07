@@ -63,9 +63,9 @@ print(len_str) # 13
 slice_str = str[0:6]
 print(slice_str)
 # anda dapat hanya mengisi nilai start atau hanya end atau bahkan tidak keduanya
-slice_str = str[:2] 
+slice_str = str[:2] # nilai default start adalah 0
 print(slice_str)
-slice_str = str[2:]
+slice_str = str[2:] # nilai default end adalah panjang string
 print(slice_str)
-slice_str = str[:]
+slice_str = str[:]  
 print(slice_str)
