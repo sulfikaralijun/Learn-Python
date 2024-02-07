@@ -9,3 +9,8 @@ print(message) # Ini juga adalah sebuah string
 # tanda kutip ganda untuk membungkus string, begitupun sebaliknya
 message = "It's a string"
 message = '"Beautiful is better than ugly.". Said Tim Peters'
+print(message)
+
+## Untuk menghindari tanda kutip, anda dapat mengunakan backslash '\'
+message = 'It\'s a string'
+print(message)
