@@ -33,3 +33,7 @@ Usage: mysql command
 '''
 
 print(help_message)
+
+# Gunakan f-string jika ingin menambahkan nilai varibel kedalam variable lain
+name = 'Sulfikar'
+greeting = f'Hi {name}'
