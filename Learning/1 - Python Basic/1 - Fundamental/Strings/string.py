@@ -60,5 +60,3 @@ len_str = len(str)
 print(len_str) # 13
 
 # kita juga dapat megiris string
-slicing_str = str[0:2]
-print(slicing_str) # Py
