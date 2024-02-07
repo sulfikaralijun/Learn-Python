@@ -59,6 +59,9 @@ print(str[-7]) #  (whitespace)
 len_str = len(str)
 print(len_str) # 13
 
-# kita juga dapat megiris string
+# kita juga dapat megiris string 'string[start:end]'
 slice_str = str[0:6]
+print(slice_str)
+# anda dapat hanya mengisi nilai start atau hanya end atau bahkan tidak keduanya
+slice_str = str[:]
 print(slice_str)
