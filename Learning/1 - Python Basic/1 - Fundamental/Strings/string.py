@@ -28,3 +28,5 @@ Usage: mysql command
     -u username
     -p password
 '''
+
+print(help_message)
