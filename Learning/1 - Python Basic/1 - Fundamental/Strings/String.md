@@ -30,10 +30,10 @@ untuk merentangkan string beberapa baris, Anda menggunakan triple quotes `"""...
 ```python
 help_message = '''
 Usage: mysql command
-    -h : hostname
-    -d : database name
-    -u : username
-    -p : password
+    -h hostname
+    -d database name
+    -u username
+    -p password
 '''
 print(help_message)
 ```
