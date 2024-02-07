@@ -7,4 +7,5 @@ print(message) # Ini juga adalah sebuah string
 
 # Jika string berisi tanda kutip tunggal, maka gunakan 
 # tanda kutip ganda untuk membungkus string, begitupun sebaliknya
-message = ""
+message = "It's a string"
+message = '"Beautiful is better than ugly.". Said Tim Peters'
