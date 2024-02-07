@@ -22,5 +22,5 @@ print(path)
 
 # untuk membuat string dengan beberapa baris, dapata menggunakan kutip 3
 help_message = '''
-
+Usage: mysql command
 '''
