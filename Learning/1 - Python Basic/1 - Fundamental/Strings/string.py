@@ -42,3 +42,7 @@ print(greeting)
 
 # Untuk menggabungkan 2 variabel string, gunakan '+'
 greeting = 'Good '
+time = 'Morning'
+greeting = greeting + time
+
+print(greeting)
