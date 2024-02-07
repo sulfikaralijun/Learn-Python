@@ -21,10 +21,6 @@ path = r'C:\Python\bin'
 print(path)
 
 # untuk membuat string dengan beberapa baris, dapata menggunakan kutip 3
-address = """
-Desa Belalo,
-Kecamatan lasolo,
-Kabupaten Konawe Utara,
-Kode Pos 93352.
-"""
-print(address)
+help_message = '''
+
+'''
