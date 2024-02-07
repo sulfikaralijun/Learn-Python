@@ -11,6 +11,11 @@ message = "It's a string"
 message = '"Beautiful is better than ugly.". Said Tim Peters'
 print(message)
 
-## Untuk menghindari tanda kutip, anda dapat mengunakan backslash '\'
+# Untuk menghindari tanda kutip, anda dapat mengunakan backslash '\'
 message = 'It\'s a string'
 print(message)
+
+# tambahkan 'r' sebelum string jika ingin membuat semua karakter
+# didalam string di anggap sebagai string tanpa pengecualian
+path = r'C:\Python\bin'
+print(path)
