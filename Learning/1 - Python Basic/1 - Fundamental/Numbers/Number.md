@@ -13,4 +13,4 @@ Anda dapat meggunakan operator Matematika seperti `+`, `-`, `*`, dan `/` untuk m
 10
 >>> 20 * 10
 200
->>>
+>>> 20
