@@ -25,3 +25,4 @@ Untuk mengubah urutan operasi, Anda menggunakan tanda kurung `()`. Misalnya:
 ```bash
 >>> 20 / (10 + 10)
 1.0
+```
