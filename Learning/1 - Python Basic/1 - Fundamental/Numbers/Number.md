@@ -28,4 +28,4 @@ Untuk mengubah urutan operasi, Anda menggunakan tanda kurung `()`. Misalnya:
 ```
 
 ## Floats (Bilangan Desimal)
-Bilangan
+Bilangan apa pun
