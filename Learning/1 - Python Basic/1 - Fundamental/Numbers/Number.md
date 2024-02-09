@@ -21,4 +21,4 @@ Untuk menghitung eksponen, Anda menggunakan dua simbol perkalian (`**`). Misalny
 >>> 3 ** 3
 27
 ```
-Untuk mengubah urutan operasi,
+Untuk mengubah urutan operasi, Anda
