@@ -9,4 +9,4 @@ Anda dapat meggunakan operator Matematika seperti `+`, `-`, `*`, dan `/` untuk m
 ```bash
 >>> 20 + 10
 30
->>> 20
+>>> 20 -
