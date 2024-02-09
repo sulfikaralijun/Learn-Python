@@ -20,3 +20,4 @@ Untuk menghitung eksponen, Anda menggunakan dua simbol perkalian (`**`). Misalny
 ```bash
 >>> 3 ** 3
 27
+```
