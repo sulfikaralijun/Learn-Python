@@ -19,3 +19,4 @@ Anda dapat meggunakan operator Matematika seperti `+`, `-`, `*`, dan `/` untuk m
 Untuk menghitung eksponen, Anda menggunakan dua simbol perkalian (`**`). Misalnya:
 ```bash
 >>> 3 ** 3
+27
