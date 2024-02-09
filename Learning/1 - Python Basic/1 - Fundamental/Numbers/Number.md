@@ -17,3 +17,4 @@ Anda dapat meggunakan operator Matematika seperti `+`, `-`, `*`, dan `/` untuk m
 2.0
 ```
 Untuk menghitung eksponen, Anda menggunakan dua simbol perkalian (`**`). Misalnya:
+```bash
