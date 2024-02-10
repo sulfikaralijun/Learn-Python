@@ -33,4 +33,5 @@ Secara umum, Anda dapat menggunakan float seperti bilangan bulat. Misalnya:
 ```bash
 >>> 0.5 + 0.5
 1.0
+>>> 0.5 - 0.5
 ```
