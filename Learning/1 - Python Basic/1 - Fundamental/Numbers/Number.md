@@ -28,4 +28,4 @@ Untuk mengubah urutan operasi, Anda menggunakan tanda kurung `()`. Misalnya:
 ```
 
 ## Floats (Bilangan Desimal)
-Bilangan apa pun yang memiliki koma desimal adalah bilangan floating-point. Istilah float berarti
+Bilangan apa pun yang memiliki koma desimal adalah bilangan floating-point. Istilah float berarti titik desimal dapat muncul di posisi mana pun dalam suatu bilangan.
