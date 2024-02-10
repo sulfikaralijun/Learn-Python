@@ -32,5 +32,5 @@ Bilangan apa pun yang memiliki koma desimal adalah bilangan floating-point. Isti
 Secara umum, Anda dapat menggunakan float seperti bilangan bulat. Misalnya:
 ```bash
 >>> 0.5 + 0.5
-
+1.0
 ```
