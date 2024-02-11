@@ -48,3 +48,4 @@ Pembagian dua bilangan bulat selalu menghasilkan float:
 Jika Anda mencampur bilangan bulat dan float dalam operasi aritmatika apa pun, hasilnya adalah float:
 ```bash
 >>> 1 + 2.0
+3.0
