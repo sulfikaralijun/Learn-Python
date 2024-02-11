@@ -50,4 +50,4 @@ Jika Anda mencampur bilangan bulat dan float dalam operasi aritmatika apa pun, h
 >>> 1 + 2.0
 3.0
 ```
-Karena representasi internal dari float,
+Karena representasi internal dari float, Python akan mencoba merepresentasikan hasilnya setepat mungkin.
