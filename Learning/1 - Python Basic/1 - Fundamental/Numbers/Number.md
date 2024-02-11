@@ -49,3 +49,4 @@ Jika Anda mencampur bilangan bulat dan float dalam operasi aritmatika apa pun, h
 ```bash
 >>> 1 + 2.0
 3.0
+```
