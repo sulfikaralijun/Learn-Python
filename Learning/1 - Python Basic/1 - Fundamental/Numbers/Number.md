@@ -35,4 +35,5 @@ Secara umum, Anda dapat menggunakan float seperti bilangan bulat. Misalnya:
 1.0
 >>> 0.5 - 0.5
 0.0
+>>>
 ```
