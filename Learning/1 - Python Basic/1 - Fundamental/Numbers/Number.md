@@ -45,4 +45,4 @@ Pembagian dua bilangan bulat selalu menghasilkan float:
 >>> 20 / 10
 2.0
 ```
-Jika Anda mencampur bilangan bulat dan float dalam operasi aritmatika apa pun,
+Jika Anda mencampur bilangan bulat dan float dalam operasi aritmatika apa pun, hasilnya adalah float:
