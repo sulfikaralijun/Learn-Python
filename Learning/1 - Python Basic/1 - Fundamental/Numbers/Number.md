@@ -44,3 +44,4 @@ Pembagian dua bilangan bulat selalu menghasilkan float:
 ```bash
 >>> 20 / 10
 2.0
+```
