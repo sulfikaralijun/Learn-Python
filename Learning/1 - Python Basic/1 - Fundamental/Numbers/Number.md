@@ -41,3 +41,4 @@ Secara umum, Anda dapat menggunakan float seperti bilangan bulat. Misalnya:
 0.25
 ```
 Pembagian dua bilangan bulat selalu menghasilkan float:
+```bash
