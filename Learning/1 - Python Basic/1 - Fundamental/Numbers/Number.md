@@ -43,3 +43,4 @@ Secara umum, Anda dapat menggunakan float seperti bilangan bulat. Misalnya:
 Pembagian dua bilangan bulat selalu menghasilkan float:
 ```bash
 >>> 20 / 10
+2.0
