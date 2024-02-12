@@ -57,4 +57,4 @@ harapkan. Misalnya:
 >>> 0.1 + 0.2
 0.30000000000000004
 ```
-Ingatlah hal ini saat Anda melakukan penghitungan dengan float. Dan
+Ingatlah hal ini saat Anda melakukan penghitungan dengan float. Dan Anda
