@@ -70,4 +70,4 @@ menggunakan garis bawah, seperti ini:
 ```python
 count = 10_000_000_000
 ```
-Saat menyimpan
+Saat menyimpan nilai-nilai
