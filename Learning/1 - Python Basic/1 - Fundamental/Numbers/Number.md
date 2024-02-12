@@ -58,4 +58,4 @@ harapkan. Misalnya:
 0.30000000000000004
 ```
 Ingatlah hal ini saat Anda melakukan penghitungan dengan float. Dan Anda akan
-mempelajari cara menangani situasi seperti
+mempelajari cara menangani situasi seperti ini
