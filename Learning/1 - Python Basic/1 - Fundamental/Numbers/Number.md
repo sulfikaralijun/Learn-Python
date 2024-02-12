@@ -54,4 +54,4 @@ Karena representasi internal dari float, Python akan mencoba merepresentasikan
 hasilnya setepat mungkin. Namun, Anda mungkin mendapatkan hasil yang tidak Anda
 harapkan. Misalnya:
 ```bash
->>>
+>>> 0.1
