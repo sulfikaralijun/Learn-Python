@@ -61,4 +61,4 @@ Ingatlah hal ini saat Anda melakukan penghitungan dengan float. Dan Anda akan
 mempelajari cara menangani situasi seperti ini di tutorial selanjutnya.
 
 ## Garis bawah dalam angka
-Jika angkanya
+Jika angkanya besar,
