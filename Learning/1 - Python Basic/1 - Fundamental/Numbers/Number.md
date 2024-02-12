@@ -65,4 +65,4 @@ Jika angkanya besar, akan sulit dibaca. Misalnya:
 ```python
 count = 10000000000
 ```
-Agar angka
+Agar angka yang
