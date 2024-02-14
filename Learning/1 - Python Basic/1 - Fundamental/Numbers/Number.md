@@ -81,4 +81,4 @@ Output:
 ```
 Garis bawah juga berfungsi untuk bilangan bulat dan float.
 
-***Perhatikan bahwa garis bawah pada angka telah**
+***Perhatikan bahwa garis bawah pada angka telah tersedia**
