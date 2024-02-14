@@ -80,3 +80,5 @@ Output:
 10000000000
 ```
 Garis bawah juga berfungsi untuk bilangan bulat dan float.
+
+*****
