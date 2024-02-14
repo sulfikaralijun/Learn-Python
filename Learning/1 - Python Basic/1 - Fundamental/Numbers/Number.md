@@ -73,4 +73,4 @@ count = 10_000_000_000
 Saat menyimpan nilai-nilai ini, Python mengabaikan garis bawah. Ia melakukannya ketika menampilkan angka-angka dengan garis bawah di layar:
 ```python
 count = 10_000_000_000
-print()
+print(count)
