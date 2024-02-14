@@ -82,3 +82,5 @@ Output:
 Garis bawah juga berfungsi untuk bilangan bulat dan float.
 
 ***Perhatikan bahwa garis bawah pada angka telah tersedia sejak Python 3.6**
+
+## Ringkasan
