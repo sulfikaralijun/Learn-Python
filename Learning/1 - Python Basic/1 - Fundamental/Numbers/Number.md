@@ -79,4 +79,4 @@ Output:
 ```bash
 10000000000
 ```
-Garis bawah juga berfungsi
+Garis bawah juga berfungsi untuk
