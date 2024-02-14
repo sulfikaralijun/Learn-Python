@@ -85,4 +85,4 @@ Garis bawah juga berfungsi untuk bilangan bulat dan float.
 
 ## Ringkasan
 - Python mendukung tipe numerik umum termasuk bilangan bulat, float, dan bilangan kompleks.
-- Gunakan
+- Gunakan garis
