@@ -1,3 +1,3 @@
 # Python Boolean
 
-Dalam tutorial ini, Anda akan belajar tentang tipe
+Dalam tutorial ini, Anda akan belajar tentang tipe data
