@@ -1,3 +1,3 @@
 # Python Boolean
 
-Dalam tutorial ini, Anda akan belajar tentang tipe data boolean di Python,
+Dalam tutorial ini, Anda akan belajar tentang tipe data boolean di Python, nilai falsy
