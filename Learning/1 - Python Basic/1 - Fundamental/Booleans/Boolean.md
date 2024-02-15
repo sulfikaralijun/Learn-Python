@@ -1,3 +1,3 @@
 # Python Boolean
 
-Dalam tutorial ini, Anda
+Dalam tutorial ini, Anda akan
