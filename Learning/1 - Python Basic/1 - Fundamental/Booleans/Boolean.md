@@ -11,4 +11,4 @@ Tipe data boolean memiliki dua nilai: `True` dan `False`.
 
 Perhatikan bahwa nilai boolean `True` dan `False` dimulai dengan huruf kapital (`T`) dan (`F`).
 
-Contoh berikut
+Contoh berikut mendefinisikan
