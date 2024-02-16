@@ -23,7 +23,7 @@ print(20 < 10) # False
 ```
 Output:
 ```bash
-
+True
 ```
 Selain itu, membandingkan dua string menghasilkan nilai boolean:
 ```python
