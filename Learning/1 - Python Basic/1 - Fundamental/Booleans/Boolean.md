@@ -21,4 +21,4 @@ Saat Anda membandingkan dua angka, Python mengembalikan hasilnya sebagai nilai b
 print(20 > 10) # True
 print(20 < 10) # False
 ```
-Selain itu, membandingkan dua string
+Selain itu, membandingkan dua string menghasilkan
