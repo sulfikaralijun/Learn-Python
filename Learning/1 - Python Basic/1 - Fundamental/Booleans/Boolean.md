@@ -16,4 +16,4 @@ Contoh berikut mendefinisikan dua variabel boolean:
 is_active = True
 is_admin = False
 ```
-Saat
+Saat Anda
