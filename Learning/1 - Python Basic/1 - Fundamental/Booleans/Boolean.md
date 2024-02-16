@@ -26,3 +26,4 @@ Selain itu, membandingkan dua string menghasilkan nilai boolean:
 print('a' < 'b')
 print('a' > 'b')
 ```
+Output:
