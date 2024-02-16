@@ -13,3 +13,4 @@ Perhatikan bahwa nilai boolean `True` dan `False` dimulai dengan huruf kapital (
 
 Contoh berikut mendefinisikan dua variabel boolean:
 ```python
+is_active
