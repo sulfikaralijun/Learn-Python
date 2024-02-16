@@ -1,3 +1,16 @@
 # Learn Python
 
-[resource](https://www.pythontutorial.net)
+## Learning
+  ### Python Basic
+    #### Fundamental
+      ##### Syntax
+      ##### Variables
+      ##### Strings
+      ##### Numbers
+      ##### Booleans
+      ##### Constants
+      ##### Comments
+      ##### Type Conversion
+
+    #### Operators
+      ### Python OOP
