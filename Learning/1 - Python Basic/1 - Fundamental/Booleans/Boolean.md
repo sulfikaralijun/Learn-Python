@@ -24,6 +24,7 @@ print(20 < 10) # False
 Output:
 ```bash
 True
+False
 ```
 Selain itu, membandingkan dua string menghasilkan nilai boolean:
 ```python
