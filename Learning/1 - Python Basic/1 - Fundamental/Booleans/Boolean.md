@@ -29,4 +29,5 @@ print('a' > 'b')
 Output:
 ```bash
 True
+False
 ```
