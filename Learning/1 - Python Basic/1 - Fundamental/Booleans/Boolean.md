@@ -27,3 +27,6 @@ print('a' < 'b')
 print('a' > 'b')
 ```
 Output:
+```bash
+
+```
