@@ -22,6 +22,9 @@ print(20 > 10) # True
 print(20 < 10) # False
 ```
 Output:
+```bash
+
+```
 Selain itu, membandingkan dua string menghasilkan nilai boolean:
 ```python
 print('a' < 'b')
