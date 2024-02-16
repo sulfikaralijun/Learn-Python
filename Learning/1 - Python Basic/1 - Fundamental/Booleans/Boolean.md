@@ -15,3 +15,4 @@ Contoh berikut mendefinisikan dua variabel boolean:
 ```python
 is_active = True
 is_admin = False
+```
