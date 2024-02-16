@@ -24,4 +24,4 @@ print(20 < 10) # False
 Selain itu, membandingkan dua string menghasilkan nilai boolean:
 ```python
 print('a' < 'b') # True
-print()
+print('a')
