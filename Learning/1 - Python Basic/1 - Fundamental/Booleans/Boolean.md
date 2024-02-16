@@ -19,4 +19,4 @@ is_admin = False
 Saat Anda membandingkan dua angka, Python mengembalikan hasilnya sebagai nilai boolean. Misalnya:
 ```python
 print(20 > 10) # True
-print(20)
+print(20 <)
