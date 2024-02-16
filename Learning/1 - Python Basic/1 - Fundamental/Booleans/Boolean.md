@@ -17,3 +17,4 @@ is_active = True
 is_admin = False
 ```
 Saat Anda membandingkan dua angka, Python mengembalikan hasilnya sebagai nilai boolean. Misalnya:
+```
