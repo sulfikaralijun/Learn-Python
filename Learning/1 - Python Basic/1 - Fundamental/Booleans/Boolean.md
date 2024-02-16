@@ -20,3 +20,4 @@ Saat Anda membandingkan dua angka, Python mengembalikan hasilnya sebagai nilai b
 ```python
 print(20 > 10) # True
 print(20 < 10) # False
+```
