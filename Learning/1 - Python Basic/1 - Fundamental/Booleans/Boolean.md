@@ -16,4 +16,4 @@ Contoh berikut mendefinisikan dua variabel boolean:
 is_active = True
 is_admin = False
 ```
-Saat Anda membandingkan dua angka, Python mengembalikan hasilnya sebagai
+Saat Anda membandingkan dua angka, Python mengembalikan hasilnya sebagai nilai
