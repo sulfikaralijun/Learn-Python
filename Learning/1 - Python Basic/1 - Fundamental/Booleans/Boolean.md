@@ -36,3 +36,5 @@ Output:
 True
 False
 ```
+
+## Fungsi bool()
