@@ -4,15 +4,15 @@
 
 ### Python Basic
 
-#### Fundamental
-##### Syntax
-##### Variables
-##### Strings
-##### Numbers
-##### Booleans
-##### Constants
-##### Comments
-##### Type Conversion
+&ensp;#### Fundamental
+&ensp;&ensp;##### Syntax
+&ensp;&ensp;##### Variables
+&ensp;&ensp;##### Strings
+&ensp;&ensp;##### Numbers
+&ensp;&ensp;##### Booleans
+&ensp;&ensp;##### Constants
+&ensp;&ensp;##### Comments
+&ensp;&ensp;##### Type Conversion
 
-#### Operators
-### Python OOP
+&ensp;#### Operators
+&ensp;&ensp;### Python OOP
