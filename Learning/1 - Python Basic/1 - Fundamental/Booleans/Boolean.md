@@ -38,4 +38,4 @@ False
 ```
 
 ## Fungsi bool()
-Untuk mengetahui
+Untuk mengetahui apakah
