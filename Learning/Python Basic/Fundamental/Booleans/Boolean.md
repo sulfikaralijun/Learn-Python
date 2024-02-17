@@ -49,4 +49,4 @@ True
 >>> bool(0)
 False
 ```
-Seperti yang
+Seperti yang dapat Anda
