@@ -45,4 +45,6 @@ True
 >>> bool('')
 False
 >>> bool(100)
+True
+
 ```
