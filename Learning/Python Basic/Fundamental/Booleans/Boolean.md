@@ -43,4 +43,6 @@ Untuk mengetahui apakah suatu nilai `True` atau `False`, Anda menggunakan `bool(
 >>> bool('Hi')
 True
 >>> bool('')
+False
+
 ```
