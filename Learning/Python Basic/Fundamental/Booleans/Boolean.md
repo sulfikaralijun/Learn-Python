@@ -46,5 +46,5 @@ True
 False
 >>> bool(100)
 True
-
+>>> bool(0)
 ```
