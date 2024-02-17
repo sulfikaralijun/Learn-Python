@@ -44,5 +44,5 @@ Untuk mengetahui apakah suatu nilai `True` atau `False`, Anda menggunakan `bool(
 True
 >>> bool('')
 False
-
+>>> bool(100)
 ```
