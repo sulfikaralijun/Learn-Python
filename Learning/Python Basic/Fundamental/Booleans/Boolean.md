@@ -42,4 +42,5 @@ Untuk mengetahui apakah suatu nilai `True` atau `False`, Anda menggunakan `bool(
 ```bash
 >>> bool('Hi')
 True
+>>>
 ```
