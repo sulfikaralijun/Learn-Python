@@ -29,6 +29,7 @@ False
 Selain itu, membandingkan dua string menghasilkan nilai boolean:
 ```bash
 >>> 'a' < 'b'
+True
 ```
 
 ## Fungsi bool()
