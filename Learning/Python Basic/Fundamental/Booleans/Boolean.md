@@ -46,4 +46,4 @@ False
 Seperti yang dapat Anda lihat dengan jelas dari keluaran, beberapa nilai bernilai `True` dan nilai lainnya bernilai `False`.
 
 ## Nilai-nilai yang Salah dan Benar
-Ketika suatu nilai dievaluasi menjadi `True`, itu benar.
+Ketika suatu nilai dievaluasi menjadi `True`, itu benar. Dan jika suatu nilai bernilai `False`,
