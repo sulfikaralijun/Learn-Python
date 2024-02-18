@@ -43,4 +43,4 @@ True
 >>> bool(0)
 False
 ```
-Seperti yang dapat Anda lihat dengan jelas dari keluaran, beberapa nilai bernilai `True`
+Seperti yang dapat Anda lihat dengan jelas dari keluaran, beberapa nilai bernilai `True` dan nilai lainnya bernilai `False`.
