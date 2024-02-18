@@ -31,6 +31,7 @@ Selain itu, membandingkan dua string menghasilkan nilai boolean:
 >>> 'a' < 'b'
 True
 >>> 'a' > 'b'
+False
 ```
 
 ## Fungsi bool()
