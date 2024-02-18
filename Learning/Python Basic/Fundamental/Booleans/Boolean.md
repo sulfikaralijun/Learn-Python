@@ -19,6 +19,7 @@ is_admin = False
 Saat Anda membandingkan dua angka, Python mengembalikan hasilnya sebagai nilai boolean. Misalnya:
 ```bash
 >>> 20 > 10
+True
 ```
 Selain itu, membandingkan dua string menghasilkan nilai boolean:
 ```bash
