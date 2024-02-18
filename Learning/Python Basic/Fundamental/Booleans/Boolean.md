@@ -21,6 +21,7 @@ Saat Anda membandingkan dua angka, Python mengembalikan hasilnya sebagai nilai b
 >>> 20 > 10
 True
 >>> 20 < 10
+False
 ```
 Selain itu, membandingkan dua string menghasilkan nilai boolean:
 ```bash
