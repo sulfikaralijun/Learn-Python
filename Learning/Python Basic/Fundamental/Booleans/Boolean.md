@@ -47,3 +47,5 @@ Seperti yang dapat Anda lihat dengan jelas dari keluaran, beberapa nilai bernila
 
 ## Nilai-nilai yang Salah dan Benar
 Ketika suatu nilai dievaluasi menjadi `True`, itu benar. Dan jika suatu nilai bernilai `False`, itu salah.
+
+Berikut ini adalah nilai-nilai salah di Python:
