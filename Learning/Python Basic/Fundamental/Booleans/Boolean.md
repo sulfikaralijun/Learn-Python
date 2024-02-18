@@ -30,6 +30,7 @@ Selain itu, membandingkan dua string menghasilkan nilai boolean:
 ```bash
 >>> 'a' < 'b'
 True
+>>> 'a' > 'b'
 ```
 
 ## Fungsi bool()
