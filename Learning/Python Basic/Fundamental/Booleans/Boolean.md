@@ -27,14 +27,8 @@ True
 False
 ```
 Selain itu, membandingkan dua string menghasilkan nilai boolean:
-```python
-print('a' < 'b')
-print('a' > 'b')
-```
-Output:
 ```bash
-True
-False
+>>> 'a' < 'b'
 ```
 
 ## Fungsi bool()
