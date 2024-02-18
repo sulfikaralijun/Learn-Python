@@ -17,15 +17,7 @@ is_active = True
 is_admin = False
 ```
 Saat Anda membandingkan dua angka, Python mengembalikan hasilnya sebagai nilai boolean. Misalnya:
-```python
-print(20 > 10)
-print(20 < 10)
-```
-Output:
-```bash
-True
-False
-```
+
 Selain itu, membandingkan dua string menghasilkan nilai boolean:
 ```bash
 >>> 'a' < 'b'
