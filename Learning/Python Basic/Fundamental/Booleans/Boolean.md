@@ -52,3 +52,4 @@ Berikut ini adalah nilai-nilai salah di Python:
 - Angka nol (`0`)
 - String Kosong `''`
 - `False`
+- `None`
