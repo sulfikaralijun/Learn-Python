@@ -51,3 +51,4 @@ Ketika suatu nilai dievaluasi menjadi `True`, itu benar. Dan jika suatu nilai be
 Berikut ini adalah nilai-nilai salah di Python:
 - Angka nol (`0`)
 - String Kosong `''`
+- `False`
