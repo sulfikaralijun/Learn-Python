@@ -57,3 +57,5 @@ Berikut ini adalah nilai-nilai salah di Python:
 - Tuple kosong `()`
 - Dictionary kosong `{}`
 Nilai-nilai yang benar adalah nilai-nilai lain yang tidak salah.
+
+**Perhatikan bahwa**
