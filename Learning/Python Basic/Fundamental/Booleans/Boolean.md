@@ -56,3 +56,4 @@ Berikut ini adalah nilai-nilai salah di Python:
 - List kosong `[]`
 - Tuple kosong `()`
 - Dictionary kosong `{}`
+Nilai-nilai yang benar adalah nilai-nilai lain yang tidak salah.
