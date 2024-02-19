@@ -54,3 +54,4 @@ Berikut ini adalah nilai-nilai salah di Python:
 - `False`
 - `None`
 - List kosong `[]`
+- Tuple kosong `()`
