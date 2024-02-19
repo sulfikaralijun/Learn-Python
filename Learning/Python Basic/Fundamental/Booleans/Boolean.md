@@ -53,3 +53,4 @@ Berikut ini adalah nilai-nilai salah di Python:
 - String Kosong `''`
 - `False`
 - `None`
+- List kosong `[]`
