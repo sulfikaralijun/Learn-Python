@@ -49,3 +49,4 @@ Seperti yang dapat Anda lihat dengan jelas dari keluaran, beberapa nilai bernila
 Ketika suatu nilai dievaluasi menjadi `True`, itu benar. Dan jika suatu nilai bernilai `False`, itu salah.
 
 Berikut ini adalah nilai-nilai salah di Python:
+- Angka nol (`0`)
