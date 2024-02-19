@@ -58,4 +58,4 @@ Berikut ini adalah nilai-nilai salah di Python:
 - Dictionary kosong `{}`
 Nilai-nilai yang benar adalah nilai-nilai lain yang tidak salah.
 
-**Perhatikan bahwa Anda akan mempelajari lebih**
+**Perhatikan bahwa Anda akan mempelajari lebih lanjut tentang**
