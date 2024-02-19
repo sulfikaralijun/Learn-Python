@@ -55,3 +55,4 @@ Berikut ini adalah nilai-nilai salah di Python:
 - `None`
 - List kosong `[]`
 - Tuple kosong `()`
+- Dictionary kosong `{}`
