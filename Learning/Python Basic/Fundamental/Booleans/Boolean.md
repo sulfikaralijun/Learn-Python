@@ -61,4 +61,4 @@ Nilai-nilai yang benar adalah nilai-nilai lain yang tidak salah.
 **Perhatikan bahwa Anda akan mempelajari lebih lanjut tentang `None`, `list`, `tuple`, dan `dictionary` dalam tutorial mendatang.**
 
 ## Ringkasan
-- Tipe data boolean Python memiliki
+- Tipe data boolean Python memiliki dua
