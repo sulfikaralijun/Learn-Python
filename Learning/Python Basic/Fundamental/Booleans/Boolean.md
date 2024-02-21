@@ -62,4 +62,4 @@ Nilai-nilai yang benar adalah nilai-nilai lain yang tidak salah.
 
 ## Ringkasan
 - Tipe data boolean Python memiliki dua nilai: `True` dan `False`.
-- Gunakan
+- Gunakan fungsi
