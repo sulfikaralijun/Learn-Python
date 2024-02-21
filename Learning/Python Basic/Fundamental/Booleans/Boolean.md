@@ -64,4 +64,4 @@ Nilai-nilai yang benar adalah nilai-nilai lain yang tidak salah.
 - Tipe data boolean Python memiliki dua nilai: `True` dan `False`.
 - Gunakan fungsi `bool()` untuk menguji apakah suatu nilai adalah `True` atau `False`.
 - Nilai yang salah bernilai `False`, sedangkan nilai yang benar bernlai `True`.
-- Nilai yang salah adalah angka nol, string kosong, False, None, List kosong, Tuple kosong, dan dictionary kosong. Nilai yang benar adalah nilai yang
+- Nilai yang salah adalah angka nol, string kosong, False, None, List kosong, Tuple kosong, dan dictionary kosong. Nilai yang benar adalah nilai yang tidak
