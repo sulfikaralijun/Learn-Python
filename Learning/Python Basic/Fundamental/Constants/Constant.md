@@ -1,3 +1,3 @@
 # Python Constants
 
-Dalam tutorial ini, Anda akan
+Dalam tutorial ini, Anda akan mempelajari
