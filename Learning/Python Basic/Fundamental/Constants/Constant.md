@@ -12,3 +12,4 @@ Untuk mengatasinya, gunakan huruf kapital semua untuk memberi nama variabel guna
 ```python
 FILE_SIZE_LIMIT = 2000
 ```
+Saat
