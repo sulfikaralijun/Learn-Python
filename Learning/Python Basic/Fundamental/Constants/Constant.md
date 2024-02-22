@@ -11,3 +11,4 @@ Berita buruknya adalah Python tidak mendukung konstanta.
 Untuk mengatasinya, gunakan huruf kapital semua untuk memberi nama variabel guna menunjukkan bahwa variabel tersebut harus diperlakukan sebagai konstanta. Misalnya:
 ```python
 FILE_SIZE_LIMIT = 2000
+```
