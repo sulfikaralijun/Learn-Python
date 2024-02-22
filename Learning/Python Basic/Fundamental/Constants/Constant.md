@@ -2,4 +2,4 @@
 
 Dalam tutorial ini, Anda akan mempelajari cara mendefinisikan konstanta di Python.
 
-Terkadang, Anda mungkin ingin menyimpan
+Terkadang, Anda mungkin ingin menyimpan nilai
