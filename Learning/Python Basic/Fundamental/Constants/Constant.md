@@ -7,3 +7,5 @@ Terkadang, Anda mungkin ingin menyimpan nilai dalam variabel. Namun Anda tidak i
 Untuk melakukannya dalam bahasa pemrograman lain, Anda dapat menggunakan konstanta. Konstanta adalah sebuah variabel yang nilainya tidak berubah selama eksekusi program.
 
 Berita buruknya adalah Python tidak mendukung konstanta.
+
+Untuk
