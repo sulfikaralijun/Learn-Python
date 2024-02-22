@@ -4,4 +4,4 @@ Dalam tutorial ini, Anda akan mempelajari cara mendefinisikan konstanta di Pytho
 
 Terkadang, Anda mungkin ingin menyimpan nilai dalam variabel. Namun Anda tidak ingin mengubah nilai-nilai ini selama jalannya program.
 
-Untuk melakukannya dalam bahasa
+Untuk melakukannya dalam bahasa pemrograman
