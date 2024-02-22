@@ -8,4 +8,4 @@ Untuk melakukannya dalam bahasa pemrograman lain, Anda dapat menggunakan konstan
 
 Berita buruknya adalah Python tidak mendukung konstanta.
 
-Untuk mengatasinya, gunakan huruf
+Untuk mengatasinya, gunakan huruf kapital
