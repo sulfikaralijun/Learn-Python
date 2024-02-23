@@ -1,3 +1,3 @@
 # Python Comments
 
-Dalam tutorial ini, Anda akan mempelajari cara menambahkan komentar ke kode Anda. Dan Anda
+Dalam tutorial ini, Anda akan mempelajari cara menambahkan komentar ke kode Anda. Dan Anda akan
