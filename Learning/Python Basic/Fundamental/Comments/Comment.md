@@ -1,3 +1,3 @@
 # Python Comments
 
-Dalam
+Dalam tutorial
