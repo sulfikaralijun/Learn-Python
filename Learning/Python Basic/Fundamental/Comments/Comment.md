@@ -1,3 +1,3 @@
 # Python Comments
 
-Dalam tutorial ini,
+Dalam tutorial ini, Anda
