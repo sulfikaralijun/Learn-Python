@@ -1,3 +1,3 @@
 # Python Comments
 
-Dalam tutorial ini, Anda akan mempelajari
+Dalam tutorial ini, Anda akan mempelajari cara
