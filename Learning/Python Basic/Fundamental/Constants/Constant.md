@@ -16,4 +16,4 @@ Saat menghadapi variabel seperti ini, Anda tidak boleh mengubah nilainya. Variab
 
 ## Ringkasan
 - Python tidak memiliki tipe konstanta bawaan.
-- Berdasarkan konvensi, Python
+- Berdasarkan konvensi, Python menggunakan
