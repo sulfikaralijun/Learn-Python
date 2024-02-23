@@ -13,3 +13,5 @@ Untuk mengatasinya, gunakan huruf kapital semua untuk memberi nama variabel guna
 FILE_SIZE_LIMIT = 2000
 ```
 Saat menghadapi variabel seperti ini, Anda tidak boleh mengubah nilainya. Variabel-variabel ini konstan berdasarkan konvensi, bukan berdasarkan aturan.
+
+## Ringkasan
