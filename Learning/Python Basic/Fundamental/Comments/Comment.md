@@ -11,4 +11,4 @@ Saat menjalankan suatu program, juru bahasa Python mengabaikan komentar dan hany
 
 Python menyediakan tiga jenis komentar termasuk komentar blok, komentar sebaris, dan string dokumentasi.
 
-## Python memblokir
+## Python memblokir komentar
