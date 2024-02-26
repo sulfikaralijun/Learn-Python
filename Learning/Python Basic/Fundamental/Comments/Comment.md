@@ -16,5 +16,5 @@ Komentar blok menjelaskan kode yang mengikutinya. Biasanya, Anda membuat indenta
 
 Untuk membuat komentar blok, Anda memulai dengan satu tanda pagar (`#`) diikuti dengan satu spasi dan string teks. Misalnya:
 ```python
-# increase price by
+# increase price by 5%
 ```
