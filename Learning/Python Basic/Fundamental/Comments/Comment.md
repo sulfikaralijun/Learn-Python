@@ -21,4 +21,4 @@ price = price * 1.05
 ```
 
 ## Komentar Sebaris Python
-Saat Anda menempatkan komentar di baris yang sama
+Saat Anda menempatkan komentar di baris yang sama dengan
