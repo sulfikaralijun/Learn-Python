@@ -14,4 +14,4 @@ Python menyediakan tiga jenis komentar termasuk komentar blok, komentar sebaris,
 ## Python memblokir komentar
 Komentar blok menjelaskan kode yang mengikutinya. Biasanya, Anda membuat indentasi komentar blok pada tingkat yang sama dengan blok kode.
 
-Untuk membuat komentar blok, Anda memulai dengan satu tanda pagar (``)
+Untuk membuat komentar blok, Anda memulai dengan satu tanda pagar (`#`)
