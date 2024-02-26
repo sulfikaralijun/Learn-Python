@@ -19,3 +19,5 @@ Untuk membuat komentar blok, Anda memulai dengan satu tanda pagar (`#`) diikuti 
 # increase price by 5%
 price = price * 1.05
 ```
+
+## Komentar Sebaris Python
