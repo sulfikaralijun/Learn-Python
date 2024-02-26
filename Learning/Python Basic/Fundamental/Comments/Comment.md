@@ -9,4 +9,4 @@ Biasanya, Anda menggunakan komentar untuk menjelaskan rumus, algoritma, dan logi
 
 Saat menjalankan suatu program, juru bahasa Python mengabaikan komentar dan hanya menafsirkan kodenya.
 
-Python menyediakan tiga jenis komentar termasuk komentar blok, komentar sebaris,
+Python menyediakan tiga jenis komentar termasuk komentar blok, komentar sebaris, dan
