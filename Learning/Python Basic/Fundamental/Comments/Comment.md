@@ -7,4 +7,4 @@ Terkadang, Anda ingin mendokumentasikan kode yang Anda tulis. Misalnya, Anda mun
 
 Biasanya, Anda menggunakan komentar untuk menjelaskan rumus, algoritma, dan logika bisnis yang kompleks.
 
-Saat menjalankan suatu program, juru bahasa Python mengabaikan
+Saat menjalankan suatu program, juru bahasa Python mengabaikan komentar
