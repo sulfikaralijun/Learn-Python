@@ -12,4 +12,4 @@ Saat menjalankan suatu program, juru bahasa Python mengabaikan komentar dan hany
 Python menyediakan tiga jenis komentar termasuk komentar blok, komentar sebaris, dan string dokumentasi.
 
 ## Python memblokir komentar
-Komentar blok menjelaskan kode yang mengikutinya. Biasanya, Anda membuat indentasi komentar blok
+Komentar blok menjelaskan kode yang mengikutinya. Biasanya, Anda membuat indentasi komentar blok pada
