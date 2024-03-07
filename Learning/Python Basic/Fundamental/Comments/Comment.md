@@ -11,7 +11,7 @@ Saat menjalankan suatu program, juru bahasa Python mengabaikan komentar dan hany
 
 Python menyediakan tiga jenis komentar termasuk komentar blok, komentar sebaris, dan string dokumentasi.
 
-## Python memblokir komentar
+## Python blok komentar
 Komentar blok menjelaskan kode yang mengikutinya. Biasanya, Anda membuat indentasi komentar blok pada tingkat yang sama dengan blok kode.
 
 Untuk membuat komentar blok, Anda memulai dengan satu tanda pagar (`#`) diikuti dengan satu spasi dan string teks. Misalnya:
@@ -23,4 +23,4 @@ price = price * 1.05
 ## Komentar Sebaris Python
 Saat Anda menempatkan komentar di baris yang sama dengan pernyataan, Anda akan mendapatkan komentar sebaris.
 
-Mirip dengan
+Mirip dengan komentar
