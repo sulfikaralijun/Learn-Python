@@ -23,4 +23,4 @@ price = price * 1.05
 ## Komentar Sebaris Python
 Saat Anda menempatkan komentar di baris yang sama dengan pernyataan, Anda akan mendapatkan komentar sebaris.
 
-Mirip dengan komentar blok, komentar sebaris dimulai dengan pagar tunggal (`#`) dan diikuti oleh spasi dan
+Mirip dengan komentar blok, komentar sebaris dimulai dengan pagar tunggal (`#`) dan diikuti oleh spasi dan string
