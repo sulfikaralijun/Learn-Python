@@ -25,4 +25,4 @@ Saat Anda menempatkan komentar di baris yang sama dengan pernyataan, Anda akan m
 
 Mirip dengan komentar blok, komentar sebaris dimulai dengan pagar tunggal (`#`) dan diikuti oleh spasi dan string teks.
 
-Contoh
+Contoh berikut mengilustrasikan komentar sebaris:
